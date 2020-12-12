@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Cahcn的自留地</title>
+  
+  <subtitle>广播收听、资讯，以及其它感兴趣的东西</subtitle>
+  <link href="https://cahcn.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://cahcn.github.io/"/>
+  <updated>2020-12-12T16:11:32.023Z</updated>
+  <id>https://cahcn.github.io/</id>
+  
+  <author>
+    <name>Cahcn</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>上海700MHz频段地面数字电视频率迁移</title>
+    <link href="https://cahcn.github.io/posts/2020-12-03-shanghai-700mhz-dtmb.html"/>
+    <id>https://cahcn.github.io/posts/2020-12-03-shanghai-700mhz-dtmb.html</id>
+    <published>2020-12-03T05:07:46.000Z</published>
+    <updated>2020-12-12T16:11:32.023Z</updated>
+    
+    <content type="html"><![CDATA[<p>2020年12月2日，负责运营上海市地面数字电视业务的上海东方明珠数字电视有线公司发布<a href="https://mp.weixin.qq.com/s/5yNccirGjU7p2TI3m5dCAQ">公告</a>：</p><blockquote><p>关于临时停播及频道迁移的通知<br>  <!--换行占位--><br>  东方明珠数字电视用户：<br>  接上级通知，为实施700MHz频段<strong>地面数字电视频率迁移项目</strong>施工，地面数字电视将于2020年12月8日00:00至13日24:00临时停机。<br>  计划恢复时间为2020年12月14日00:00，恢复后<strong>节目数量及内容不变，频点将有所调整</strong>。请注意重新搜索频道。</p></blockquote><a id="more"></a><p>上海东方明珠广播电视塔目前使用706、722MHz两个频点发射地面数字电视信号。</p><table><thead><tr><th align="center">频率</th><th align="center">节目</th></tr></thead><tbody><tr><td align="center">706MHz</td><td align="center">CCTV-9、CCTV-11、CCTV-17、CGTN</td></tr><tr><td align="center">722MHz</td><td align="center">MMTV东方明珠移动电视、MMTV巴士频道</td></tr></tbody></table><p>频率迁移工作完成后，两个频点的节目将调整至700MHz以下的频点发射。<br>腾出来的700MHz（n28）频段将分配给中国广播电视网络有限公司（CBN），用于开展5G通信业务。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;2020年12月2日，负责运营上海市地面数字电视业务的上海东方明珠数字电视有线公司发布&lt;a href=&quot;https://mp.weixin.qq.com/s/5yNccirGjU7p2TI3m5dCAQ&quot;&gt;公告&lt;/a&gt;：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;关于临时停播及频道迁移的通知&lt;br&gt;  &lt;!--换行占位--&gt;&lt;br&gt;  东方明珠数字电视用户：&lt;br&gt;  接上级通知，为实施700MHz频段&lt;strong&gt;地面数字电视频率迁移项目&lt;/strong&gt;施工，地面数字电视将于2020年12月8日00:00至13日24:00临时停机。&lt;br&gt;  计划恢复时间为2020年12月14日00:00，恢复后&lt;strong&gt;节目数量及内容不变，频点将有所调整&lt;/strong&gt;。请注意重新搜索频道。&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="other" scheme="https://cahcn.github.io/categories/other/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>北京人民广播电台将停播七套有线调频广播节目</title>
+    <link href="https://cahcn.github.io/posts/2020-11-11-Radio-Beijing-Corporation.html"/>
+    <id>https://cahcn.github.io/posts/2020-11-11-Radio-Beijing-Corporation.html</id>
+    <published>2020-11-11T14:47:43.000Z</published>
+    <updated>2020-11-19T14:33:10.329Z</updated>
+    
+    <content type="html"><![CDATA[<p>2020年11月11日，北京人民广播电台发布<a href="https://mp.weixin.qq.com/s/LoQm_XKl5r00Y9X8z58Atw">公告</a>，旗下七套有线调频广播节目将于2020年11月18日停止播出。</p><a id="more"></a><p>涉及到的频率为：</p><ul><li>有线调频97.0　通俗音乐广播</li><li>有线调频98.6　古典音乐广播</li><li>有线调频99.4　教学广播</li><li>有线调频104.3　长书广播</li><li>有线调频105.1　有线戏曲曲艺广播</li><li>有线调频106.5　欢乐时光广播</li><li>有线调频107.5　怀旧金曲广播</li></ul><p>目前北京电台<a href="http://www.rbc.cn/">官方网站</a>已下线这七套节目的在线收听及节目回放功能<!--，北京以外地区已无法通过互联网收听-->。</p><hr><p>有消息指出，七套有线调频广播存在着节目多次重播、新节目占全天节目的比重小、受众少等情况。<br>此时北京电台宣布有线调频广播停播计划，除了节省资金以外，可能还与国家广电总局近日印发<a href="http://www.nrta.gov.cn/art/2020/11/5/art_113_53696.html">《国家广播电视总局关于推动新时代广播电视播出机构做强做优的意见》</a>的通知有关。</p><p>通知明确推进广播电视体制机制改革，释放事业产业发展活力，部分要求如下：</p><blockquote><p>（九）深化结构性调整。<strong>推动精简精办频率频道</strong>，加强专业频道管理，坚决实施退出管理，优化结构布局，切实改变电视频道粗放式、低水平、低效益的发展方式，加快向质量效益型发展模式转变。加强频率频道差异化定位，深耕垂直领域，避免同质化，优化发展模式。</p></blockquote><p>结合今年<a href="/posts/2020-10-29-Yangtze-River-Delta-FM.html">上海电台将东方都市广播、东广新闻台合并为长三角之声广播</a>，及<a href="/posts/2020-10-23-nrta-data.html">国家广电总局批复多套广播节目调整备案呼号</a>的消息来看，中国大陆地区广播电台频率优化、整合工作或许才刚刚开始。</p><!--> 这是一个最好的时代，也是一个最坏的时代。-->]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;2020年11月11日，北京人民广播电台发布&lt;a href=&quot;https://mp.weixin.qq.com/s/LoQm_XKl5r00Y9X8z58Atw&quot;&gt;公告&lt;/a&gt;，旗下七套有线调频广播节目将于2020年11月18日停止播出。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>CNR DRM B20</title>
+    <link href="https://cahcn.github.io/posts/2020-11-01-CNR-DRM-B20.html"/>
+    <id>https://cahcn.github.io/posts/2020-11-01-CNR-DRM-B20.html</id>
+    <published>2020-11-02T15:20:43.000Z</published>
+    <updated>2020-12-05T08:08:23.110Z</updated>
+    
+    <content type="html"><![CDATA[<p>2020年10月25日，中央人民广播电台DRM短波数字广播试验播出频率开始执行B20季频率表。</p><p><a href="https://mp.weixin.qq.com/s/KPlW3ErcC5tTw78ltFufkA">https://mp.weixin.qq.com/s/KPlW3ErcC5tTw78ltFufkA</a></p><a id="more"></a><p>齐齐哈尔、昆明发射的频率有所调整，具体情况如下：<br><strong>QIQ（齐齐哈尔）</strong><br>11995kHz停止发射，上午下午拆分为两个频率13850、11990kHz，发射时间由09:00-18:00调整为08:00-17:00，其它参数与原11995kHz一致。<br>上午时段改为使用13850kHz发射，发射时间为08:00-12:00<br>下午时段改为使用11990kHz发射，发射时间为12:00-17:00</p><p>9870kHz停止发射，改为使用13710kHz发射，发射时间由18:00-20:00调整为17:00-20:00，其它参数与原9870kHz一致。</p><p><strong>KUN（昆明）</strong><br>13810kHz停止发射，12:00-19:00改用两个频率17800、15180kHz发射，其它参数与原13810kHz一致。<br>17800kHz，发射时间为12:00-16:00<br>15180kHz，发射时间为16:00-19:00</p><p><strong>频率异动（测试期间信息持续更新）</strong><br>2020年11月18日14:00-16:00，17800kHz停机<br>2020年12月1日15:00-17:00，11990kHz停机</p><hr><p>中国之声DRM广播频率：<a href="https://cahcn.github.io/drm/">https://cahcn.github.io/drm/</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;2020年10月25日，中央人民广播电台DRM短波数字广播试验播出频率开始执行B20季频率表。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/KPlW3ErcC5tTw78ltFufkA&quot;&gt;https://mp.weixin.qq.com/s/KPlW3ErcC5tTw78ltFufkA&lt;/a&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>BBR广西北部湾之声B20节目时间表</title>
+    <link href="https://cahcn.github.io/posts/2020-10-25-Beibu-Bay-Radio.html"/>
+    <id>https://cahcn.github.io/posts/2020-10-25-Beibu-Bay-Radio.html</id>
+    <published>2020-10-30T16:13:07.000Z</published>
+    <updated>2020-10-30T16:23:20.317Z</updated>
+    
+    <content type="html"><![CDATA[<p>B20，广西北部湾之声短波时段的自办节目继续缩水，广西广播电视台越来越不重视外宣频率的节目质量。</p><p>与<a href="/posts/2020-04-08-Beibu-Bay-Radio.html">A20节目表</a>相比较，取消了《BBR资讯魔方》自办节目，越南语《天气预报》节目不再安排在短波时段播出，均没有开办新节目填补对应时段的空缺。<br>21:30-21:35播出的《一词一世界》节目，使用五种东盟国家的语言播出，这是本季节目表为数不多的亮点。</p><a id="more"></a><p>短波时段各语种安排：<br>17:45-19:30　汉语<br>19:30-20:00　粤语<br>20:00-21:00　越南语<br>21:00-21:30　汉语<br>21:30-21:35　柬埔寨语（周一）<br>　　　　　　 老挝语（周二）<br>　　　　　　 缅甸语（周三、周六）<br>　　　　　　 泰语（周四、周日）<br>　　　　　　 越南语（周五）<br>21:35-22:00　汉语<br>22:00-23:00　越南语(CRI)<br>23:00-23:20　汉语<br>23:20-23:30　粤语<br>23:30-00:00　泰语<br>06:48-07:00　测试音乐<br>07:00-09:02　汉语</p><p>短波时段节目表：<br>17:45-18:00　音乐<br>18:00-18:30　文墨中国、美在广西、东盟风情<br>18:30-19:00　转播广西卫视《广西新闻》<br>19:00-19:30　转播CCTV-1《新闻联播》★<br>19:30-20:00　华人世界（粤语）、粤语金曲（粤语）、东盟风情<br>20:00-20:05　公益广告、音乐<br>20:05-20:30　越南语节目▲<br>20:30-21:00　越南语节目▲<br>21:00-21:15　美在广西、东盟风情<br>21:15-21:30　音乐<br>21:30-21:35　《一词一世界》<!--越南语时刻、老挝语时刻、缅语时刻、英语时刻-->（周一柬埔寨语，周二老挝语，周三、周六缅甸语，周四、周日泰语，周五越南语）<br>21:35-22:00　文墨中国、城市惠生活<br>22:00-23:00　CRI越南语节目<br>23:00-23:20　音乐、公益广告、《一词一世界》（英语时刻）<br>23:20-23:30　粤语金曲（粤语）<br>23:30-00:00　泰语节目▲、东盟歌曲大串烧<br>00:00　全天播音结束<br>00:03　短波结束发射<br>06:48-07:00　测试音乐<br>07:00-09:00　转播CCTV-13《朝闻天下》<br>09:00-09:02　预防新型冠状病毒肺炎宣传<br>09:02　短波结束发射</p><p>★ 由于CCTV-1《新闻联播》节目自2017年四季度以来经常超时播出，导致北部湾之声19:30之后的节目经常不能按时播放。<br>▲ 外语水平有限，无法听懂节目名称，已向广西北部湾之声官方咨询节目名称，但并未收到任何答复。</p><p>BBR广西北部湾之声在线收听：<br><a href="http://video.bbrtv.com/index.php?option=com_content&amp;ItemId=11">http://video.bbrtv.com/index.php?option=com_content&amp;ItemId=11</a></p><hr><p>A20节目时间表：<a href="https://cahcn.github.io/posts/2020-04-08-Beibu-Bay-Radio.html">https://cahcn.github.io/posts/2020-04-08-Beibu-Bay-Radio.html</a><br>B19节目时间表：<a href="https://cahcn.github.io/posts/2019-10-31-Beibu-Bay-Radio.html">https://cahcn.github.io/posts/2019-10-31-Beibu-Bay-Radio.html</a><br>B17节目时间表：<a href="https://cahcn.github.io/posts/2017-11-27-Beibu-Bay-Radio.html">https://cahcn.github.io/posts/2017-11-27-Beibu-Bay-Radio.html</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;B20，广西北部湾之声短波时段的自办节目继续缩水，广西广播电视台越来越不重视外宣频率的节目质量。&lt;/p&gt;
+&lt;p&gt;与&lt;a href=&quot;/posts/2020-04-08-Beibu-Bay-Radio.html&quot;&gt;A20节目表&lt;/a&gt;相比较，取消了《BBR资讯魔方》自办节目，越南语《天气预报》节目不再安排在短波时段播出，均没有开办新节目填补对应时段的空缺。&lt;br&gt;21:30-21:35播出的《一词一世界》节目，使用五种东盟国家的语言播出，这是本季节目表为数不多的亮点。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>上海人民广播电台长三角之声FM89.9/AM792开播</title>
+    <link href="https://cahcn.github.io/posts/2020-10-29-Yangtze-River-Delta-FM.html"/>
+    <id>https://cahcn.github.io/posts/2020-10-29-Yangtze-River-Delta-FM.html</id>
+    <published>2020-10-29T14:55:45.000Z</published>
+    <updated>2020-12-08T14:13:22.528Z</updated>
+    
+    <content type="html"><![CDATA[<p>2020年6月，国家广电总局批复上海人民广播电台东方都市广播、东广新闻资讯广播整合为一套节目，呼号“长三角之声”。<br>2020年10月28日0:00，FM89.9/AM792东方都市广播、FM90.9/AM1296东广新闻台长三角之声，正式合并为FM89.9/AM792上海长三角之声。</p><a id="more"></a><p>根据反馈，原东广新闻台长三角之声调频频率FM90.9目前仍在同步播出FM89.9/AM792的节目，中波频率AM1296已于2020年9月1日停止发射。<br>另据上海电台官方视听APP“<a href="http://www.ajmide.com/">阿基米德FM</a>”消息，上海电台计划将第一财经广播FM97.7的频率调整为FM90.9/AM1296，实际并未实施。</p><p>（2020年11月13日更新）<br>2020年11月13日，第一财经广播调频频率调整，改用原东广新闻台频率FM90.9，FM97.7停止使用。</p><hr><p>截至2020年11月中旬，上海人民广播电台共开办12套广播节目：</p><table><thead><tr><th align="center">序号</th><th align="center">节目</th><th align="center">调频频率</th><th align="center">中波频率</th><th>备注</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">新闻广播</td><td align="center">FM93.4</td><td align="center">AM990</td><td></td></tr><tr><td align="center">2</td><td align="center">交通广播</td><td align="center">FM105.7</td><td align="center">AM648</td><td></td></tr><tr><td align="center">3</td><td align="center">戏曲广播</td><td align="center">FM97.2</td><td align="center">AM1197</td><td>正式呼号为“戏剧曲艺广播”</td></tr><tr><td align="center">4</td><td align="center">故事广播</td><td align="center">FM107.2</td><td align="center">AM927</td><td></td></tr><tr><td align="center">5</td><td align="center">五星体育广播</td><td align="center">FM94.0</td><td align="center"></td><td></td></tr><tr><td align="center">6</td><td align="center">长三角之声</td><td align="center">FM89.9</td><td align="center">AM792</td><td>东方都市广播、东广新闻台整合<br>AM1296频率2020年9月1日停止使用</td></tr><tr><td align="center">7</td><td align="center">流行音乐广播</td><td align="center">FM101.7</td><td align="center"></td><td>又称“动感101”</td></tr><tr><td align="center">8</td><td align="center">第一财经广播</td><td align="center">FM90.9</td><td align="center">AM603</td><td>0:00-6:00转播FM94.7<br>FM97.7频率2020年11月13日停止使用</td></tr><tr><td align="center">9</td><td align="center">经典音乐广播</td><td align="center">FM94.7</td><td align="center"></td><td>又称“经典947”</td></tr><tr><td align="center">10</td><td align="center">浦江之声广播电台</td><td align="center"></td><td align="center">AM1422</td><td>19:00-20:00、7:00-8:00为自办节目<br>其余时段转播FM90.9（原FM97.7）</td></tr><tr><td align="center">11</td><td align="center">经典金曲广播</td><td align="center">FM103.7</td><td align="center"></td><td>又称“Love Radio 103.7FM”</td></tr><tr><td align="center">12</td><td align="center">爱乐数字音乐广播</td><td align="center">FM98.1</td><td align="center"></td><td>又称“KFM981”<br>该频率未在国家广电总局备案</td></tr></tbody></table>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;2020年6月，国家广电总局批复上海人民广播电台东方都市广播、东广新闻资讯广播整合为一套节目，呼号“长三角之声”。&lt;br&gt;2020年10月28日0:00，FM89.9/AM792东方都市广播、FM90.9/AM1296东广新闻台长三角之声，正式合并为FM89.9/AM792上海长三角之声。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>获总局批复调整呼号的频率频道（2019年11月-2020年10月）</title>
+    <link href="https://cahcn.github.io/posts/2020-10-23-nrta-data.html"/>
+    <id>https://cahcn.github.io/posts/2020-10-23-nrta-data.html</id>
+    <published>2020-10-23T02:30:42.000Z</published>
+    <updated>2020-11-19T14:32:59.506Z</updated>
+    
+    <content type="html"><![CDATA[<p>2020年，广电总局传媒机构管理司加快推动广播电视频道频率资源整合、结构优化、精简精办工作。</p><p>下表为2019年11月至2020年10月获总局批复调整呼号的广播频率、电视频道。</p><a id="more"></a><table><thead><tr><th align="center">省份</th><th align="center">台名</th><th align="center">调整前呼号</th><th align="center">调整后呼号</th><th align="center">备注</th></tr></thead><tbody><tr><td align="center">安徽</td><td align="center">滁州市广播电视台</td><td align="center">交通音乐广播</td><td align="center">旅游交通广播</td><td align="center"></td></tr><tr><td align="center">安徽</td><td align="center">安徽广播电视台</td><td align="center">综艺频道</td><td align="center">综艺·体育频道</td><td align="center"></td></tr><tr><td align="center">安徽</td><td align="center">安徽广播电视台</td><td align="center">科教频道</td><td align="center">农业·科教频道</td><td align="center"></td></tr><tr><td align="center">北京</td><td align="center">北京广播电视台</td><td align="center">古典音乐广播</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">北京</td><td align="center">北京广播电视台</td><td align="center">通俗音乐广播</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">北京</td><td align="center">北京广播电视台</td><td align="center">教学广播</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">北京</td><td align="center">北京广播电视台</td><td align="center">长书广播</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">北京</td><td align="center">北京广播电视台</td><td align="center">有线戏曲曲艺广播</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">北京</td><td align="center">北京广播电视台</td><td align="center">欢乐时光广播</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">北京</td><td align="center">北京广播电视台</td><td align="center">怀旧金曲广播</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">福建</td><td align="center">福建电视台</td><td align="center">公共频道</td><td align="center">乡村振兴·公共频道</td><td align="center"></td></tr><tr><td align="center">福建</td><td align="center">厦门市电视台</td><td align="center">少儿生活频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">甘肃</td><td align="center">甘肃电视台</td><td align="center">公共频道</td><td align="center">公共应急频道</td><td align="center"></td></tr><tr><td align="center">甘肃</td><td align="center">金昌市广播电视台</td><td align="center"></td><td align="center">交通音乐广播</td><td align="center">新增</td></tr><tr><td align="center">广东</td><td align="center">广东广播电视台</td><td align="center">珠江电影频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">广东</td><td align="center">广东广播电视台</td><td align="center"></td><td align="center">移动电视频道</td><td align="center">新增</td></tr><tr><td align="center">广东</td><td align="center">深圳市电视台</td><td align="center"></td><td align="center">移动电视频道</td><td align="center">新增</td></tr><tr><td align="center">广东</td><td align="center">广州市广播电视台</td><td align="center">生活频道、少儿频道、购物频道</td><td align="center">南国都市频道</td><td align="center">频道整合</td></tr><tr><td align="center">广西</td><td align="center">北海市广播电视台</td><td align="center">综合广播</td><td align="center">新闻综合广播</td><td align="center"></td></tr><tr><td align="center">广西</td><td align="center">北海市广播电视台</td><td align="center">经济音乐广播</td><td align="center">交通音乐广播</td><td align="center"></td></tr><tr><td align="center">河南</td><td align="center">河南广播电视台</td><td align="center">新农村频道</td><td align="center">乡村频道</td><td align="center"></td></tr><tr><td align="center">河南</td><td align="center">河南广播电视台</td><td align="center"></td><td align="center">移动电视频道</td><td align="center">新增</td></tr><tr><td align="center">河南</td><td align="center">洛阳市广播电视台</td><td align="center">公共频道</td><td align="center">文旅频道</td><td align="center"></td></tr><tr><td align="center">河南</td><td align="center">洛阳市广播电视台</td><td align="center">经济广播</td><td align="center">音乐广播</td><td align="center"></td></tr><tr><td align="center">河南</td><td align="center">南阳市广播电视台</td><td align="center">经济广播</td><td align="center">交通音乐广播</td><td align="center"></td></tr><tr><td align="center">河南</td><td align="center">商丘市广播电视台</td><td align="center">经济广播</td><td align="center">交通广播</td><td align="center"></td></tr><tr><td align="center">河南</td><td align="center">平顶山市广播电视台</td><td align="center"></td><td align="center">交通广播</td><td align="center">新增</td></tr><tr><td align="center">黑龙江</td><td align="center">黑龙江广播电视台</td><td align="center">公共·农村频道</td><td align="center">公共·农业频道</td><td align="center"></td></tr><tr><td align="center">黑龙江</td><td align="center">大庆市广播电视台</td><td align="center">长书广播</td><td align="center">音乐广播</td><td align="center"></td></tr><tr><td align="center">黑龙江</td><td align="center">齐齐哈尔市广播电视台</td><td align="center">文艺广播</td><td align="center">交通广播</td><td align="center"></td></tr><tr><td align="center">湖北</td><td align="center">湖北广播电视台</td><td align="center">文艺广播</td><td align="center">经典音乐广播</td><td align="center"></td></tr><tr><td align="center">湖北</td><td align="center">湖北广播电视台</td><td align="center">体育旅游广播</td><td align="center">城市之声广播</td><td align="center"></td></tr><tr><td align="center">湖北</td><td align="center">湖北广播电视台</td><td align="center">妇女儿童广播</td><td align="center">亲子广播</td><td align="center"></td></tr><tr><td align="center">湖北</td><td align="center">荆州市广播电视台</td><td align="center">交通音乐广播</td><td align="center">交通广播</td><td align="center"></td></tr><tr><td align="center">湖北</td><td align="center">恩施州广播电视台</td><td align="center"></td><td align="center">交通音乐广播</td><td align="center">新增</td></tr><tr><td align="center">湖南</td><td align="center">湖南广播电视台</td><td align="center">时尚频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">湖南</td><td align="center">长沙市广播电视台</td><td align="center">经济广播</td><td align="center">音乐广播</td><td align="center"></td></tr><tr><td align="center">湖南</td><td align="center">永州市广播电视台</td><td align="center"></td><td align="center">新闻综合广播</td><td align="center">新增</td></tr><tr><td align="center">江苏</td><td align="center">徐州市广播电视台</td><td align="center">经济服务广播</td><td align="center">音乐广播</td><td align="center"></td></tr><tr><td align="center">内蒙古</td><td align="center">呼伦贝尔市广播电视台</td><td align="center">影视娱乐频道</td><td align="center">文化旅游频道</td><td align="center"></td></tr><tr><td align="center">青海</td><td align="center">海东地区广播电视台</td><td align="center"></td><td align="center">新闻综合广播</td><td align="center">新增</td></tr><tr><td align="center">上海</td><td align="center">上海广播电视台</td><td align="center">电视剧频道、电影频道</td><td align="center">东方影视频道</td><td align="center">频道整合</td></tr><tr><td align="center">上海</td><td align="center">上海广播电视台</td><td align="center">纪实频道、艺术人文频道</td><td align="center">纪实人文频道</td><td align="center">频道整合</td></tr><tr><td align="center">上海</td><td align="center">上海广播电视台</td><td align="center">东方都市广播、东广新闻资讯广播</td><td align="center">长三角之声广播</td><td align="center">频率整合</td></tr><tr><td align="center">山东</td><td align="center">青岛市广播电视台</td><td align="center">综合广播</td><td align="center">新闻综合广播</td><td align="center"></td></tr><tr><td align="center">山东</td><td align="center">烟台市广播电视台</td><td align="center">经济广播</td><td align="center">音乐广播</td><td align="center"></td></tr><tr><td align="center">山西</td><td align="center">山西广播电视台</td><td align="center">经济资讯频道</td><td align="center">经济与科技频道</td><td align="center"></td></tr><tr><td align="center">山西</td><td align="center">山西广播电视台</td><td align="center">科教频道</td><td align="center">社会与法治频道</td><td align="center"></td></tr><tr><td align="center">山西</td><td align="center">山西广播电视台</td><td align="center">少儿频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">四川</td><td align="center">南充市广播电视台</td><td align="center">经济生活广播</td><td align="center">交通音乐广播</td><td align="center"></td></tr><tr><td align="center">四川</td><td align="center">凉山州广播电视台</td><td align="center">公共频道</td><td align="center">彝语综合频道</td><td align="center"></td></tr><tr><td align="center">天津</td><td align="center">天津广播电视台</td><td align="center">公共频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">西藏</td><td align="center">西藏电视台</td><td align="center">经济生活服务频道</td><td align="center"></td><td align="center">暂停播出</td></tr><tr><td align="center">新疆</td><td align="center">新疆广播电视台</td><td align="center">城市广播</td><td align="center">文化旅游广播</td><td align="center"></td></tr><tr><td align="center">新疆</td><td align="center">新疆广播电视台</td><td align="center">民生广播</td><td align="center">老年广播</td><td align="center"></td></tr><tr><td align="center">云南</td><td align="center">云南广播电视台</td><td align="center">香格里拉之声</td><td align="center">国际广播</td><td align="center"></td></tr><tr><td align="center">云南</td><td align="center">云南广播电视台</td><td align="center">少儿广播</td><td align="center">旅游广播</td><td align="center"></td></tr><tr><td align="center">浙江</td><td align="center">浙江电视台</td><td align="center">教育科技频道、影视娱乐频道</td><td align="center">教科影视频道</td><td align="center">频道整合</td></tr><tr><td align="center">浙江</td><td align="center">宁波市电视台</td><td align="center"></td><td align="center">移动电视频道</td><td align="center">新增</td></tr><tr><td align="center">浙江</td><td align="center">杭州市广播电视台</td><td align="center">少儿频道</td><td align="center">青少·体育频道</td><td align="center"></td></tr></tbody></table>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;2020年，广电总局传媒机构管理司加快推动广播电视频道频率资源整合、结构优化、精简精办工作。&lt;/p&gt;
+&lt;p&gt;下表为2019年11月至2020年10月获总局批复调整呼号的广播频率、电视频道。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>经总局批准的4K超高清/高清电视频道（截至2020年10月）</title>
+    <link href="https://cahcn.github.io/posts/2018-03-01-High-Definition-Television.html"/>
+    <id>https://cahcn.github.io/posts/2018-03-01-High-Definition-Television.html</id>
+    <published>2020-10-16T13:17:29.000Z</published>
+    <updated>2020-11-08T12:31:15.450Z</updated>
+    
+    <content type="html"><![CDATA[<p>本列表数据来源于国家广播电视总局公布的</p><ul><li><a href="http://www.nrta.gov.cn/art/2020/10/16/art_113_53341.html">《地级以上广播电视播出机构及频道频率名录（截至2020年10月）》</a></li><li><a href="http://www.nrta.gov.cn/art/2020/10/16/art_113_53342.html">《县级广播电视播出机构名录（截至2020年10月）》</a></li><li><a href="http://www.nrta.gov.cn/art/2020/10/16/art_113_53343.html">《教育电视台及频道目录（截至2020年10月）》</a></li></ul><!--- [《地级以上广播电视播出机构及频道频率名录（截至2020年4月）》](http://www.nrta.gov.cn/art/2020/4/13/art_113_50682.html)- [《县级广播电视播出机构名录（截至2020年4月）》](http://www.nrta.gov.cn/art/2020/4/13/art_113_50684.html)- [《教育电视台及频道目录（截至2020年4月）》](http://www.nrta.gov.cn/art/2020/4/13/art_113_50683.html)- [《地级以上广播电视播出机构及频道频率名录（截至2019年底）》](http://www.nrta.gov.cn/art/2020/1/20/art_69_49565.html)- [《县级广播电视播出机构名录（截至2019年底）》](http://www.nrta.gov.cn/art/2020/1/20/art_69_49564.html)- [《地级以上广播电视播出机构及频道频率名录（截至2019年11月）》](http://www.nrta.gov.cn/art/2019/11/21/art_69_48816.html)- [《县级广播电视播出机构名录（截至2019年11月）》](http://www.nrta.gov.cn/art/2019/11/21/art_69_48817.html)--><p>数据按照民政部公布的<a href="http://www.mca.gov.cn/article/sj/xzqh/">行政区划代码</a>排列，除加注“（xx卫视）”之外，未作其它改动。</p><p>列表数据不包括：</p><ol><li>不受国家广播电视总局管理的香港、澳门以及台湾地区电视台开办的频道。</li><li>地方已经实施高标清同播，但未报总局批准并备案的电视频道。</li><li>地方私自开设，未在总局备案的电视频道。</li><li>付费电视频道、移动电视频道。</li></ol><a id="more"></a><hr><h3 id="中央（25套）"><a href="#中央（25套）" class="headerlink" title="中央（25套）"></a>中央（25套）</h3><p><strong>中央广播电视总台</strong></p><ol><li>综合频道（高标清同播）</li><li>财经频道（高标清同播）</li><li>综艺频道（高标清同播）</li><li>中文国际频道（亚洲版）（高标清同播）</li><li>体育频道（高标清同播）</li><li>电影频道（高标清同播）</li><li>国防军事频道（高标清同播）</li><li>电视剧频道（高标清同播）</li><li>纪录频道（国内版）（高标清同播）</li><li>科教频道（高标清同播）</li><li>戏曲频道（高标清同播）</li><li>社会与法频道（高标清同播）</li><li>新闻频道（高标清同播）</li><li>少儿频道（高标清同播）</li><li>音乐频道（高标清同播）</li><li>农业农村频道（高标清同播）</li><li><strong>体育赛事频道（高清）</strong></li><li>英语新闻频道（高标清同播）</li><li>法语国际频道（高标清同播）</li><li>西班牙语国际频道（高标清同播）</li><li>阿拉伯语国际频道（高标清同播）</li><li>俄语国际频道（高标清同播）</li><li><strong>4K超高清频道（4K超高清）</strong><br>仅限境外落地的频道：</li><li>纪录频道（国际版）（高标清同播）</li></ol><p><strong>中国教育电视台</strong></p><ol><li>综合教育频道（高标清同播）</li></ol><h3 id="北京市（10套）"><a href="#北京市（10套）" class="headerlink" title="北京市（10套）"></a>北京市（10套）</h3><p><strong>北京广播电视台</strong></p><ol><li>综合频道（北京卫视）（高标清同播）</li><li>文艺频道（高标清同播）</li><li>科教频道（高标清同播）</li><li>影视频道（高标清同播）</li><li>财经频道（高标清同播）</li><li>生活频道（高标清同播）</li><li>青年频道（高标清同播）</li><li>新闻频道（高标清同播）</li><li>卡酷少儿频道（高标清同播）</li><li>冬奥纪实频道（高标清同播）</li></ol><h3 id="天津市（8套）"><a href="#天津市（8套）" class="headerlink" title="天津市（8套）"></a>天津市（8套）</h3><p><strong>天津广播电视台</strong></p><ol><li>综合频道（天津卫视）（高标清同播）</li><li>新闻频道（高标清同播）</li><li>文艺频道（高标清同播）</li><li>影视频道（高标清同播）</li><li>都市频道（高标清同播）</li><li>体育频道（高标清同播）</li><li>科教频道（高标清同播）</li><li>少儿频道（高标清同播）</li></ol><h3 id="河北省（11套）"><a href="#河北省（11套）" class="headerlink" title="河北省（11套）"></a>河北省（11套）</h3><p><strong>河北广播电视台</strong></p><ol><li>新闻综合频道（河北卫视）（高标清同播）</li></ol><p><strong>石家庄市广播电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li></ol><p><strong>邯郸市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>科技教育频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>保定市电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li></ol><p><strong>张家口市电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>沧州市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li><li>影视娱乐频道（高标清同播）</li></ol><h3 id="山西省（8套）"><a href="#山西省（8套）" class="headerlink" title="山西省（8套）"></a>山西省（8套）</h3><p><strong>山西广播电视台</strong></p><ol><li>新闻综合频道（山西卫视）（高标清同播）</li></ol><p><strong>大同市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li><li>煤都生活频道（高标清同播）</li></ol><p><strong>朔州市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>晋中市广播电视台（全台高清）</strong></p><ol><li>综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><h3 id="内蒙古自治区（30套）"><a href="#内蒙古自治区（30套）" class="headerlink" title="内蒙古自治区（30套）"></a>内蒙古自治区（30套）</h3><p><strong>内蒙古广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（蒙语）（高标清同播）</li><li>综合频道（汉语）（内蒙古卫视）（高标清同播）</li><li>文体娱乐频道（高标清同播）</li><li>经济生活频道（高标清同播）</li><li>新闻综合频道（高标清同播）</li><li>农牧频道（高标清同播）</li><li>少儿频道（高标清同播）</li><li>蒙语文化频道（高标清同播）</li></ol><p><strong>呼和浩特市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>都市生活频道（高标清同播）</li><li>影视娱乐频道（高标清同播）</li></ol><p><strong>包头市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（蒙、汉语共用）（高标清同播）</li><li>生活服务频道（高标清同播）</li><li>经济频道（高标清同播）</li></ol><p><strong>赤峰市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>经济服务频道（高标清同播）</li><li>影视娱乐频道（高标清同播）</li></ol><p><strong>通辽市广播电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li></ol><p><strong>鄂尔多斯市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>经济服务频道（高标清同播）</li><li>城市生活频道（高标清同播）</li><li>蒙语新闻综合频道（高标清同播）</li></ol><p><strong>呼伦贝尔市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>文化旅游频道（高标清同播）　　//2020年10月的《名录》中，呼号由“影视娱乐频道”调整为“文化旅游频道”</li><li>生活资讯频道（高标清同播）</li></ol><p><strong>巴彦淖尔市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（汉语、蒙语）（高标清同播）</li><li>经济生活频道（高标清同播）</li><li>影视娱乐频道（高标清同播）</li></ol><p>县级台：<br>鄂托克旗广播电视台电视频道（高标清同播）<!--鄂尔多斯市--><br>鄂温克族自治旗广播电视台电视频道（高标清同播）<!--呼伦贝尔市--></p><h3 id="辽宁省（9套）"><a href="#辽宁省（9套）" class="headerlink" title="辽宁省（9套）"></a>辽宁省（9套）</h3><p><strong>辽宁广播电视台</strong></p><ol><li>综合频道（辽宁卫视）（高标清同播）</li></ol><p><strong>沈阳市广播电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li></ol><p><strong>大连市广播电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>乐天购物频道（高标清同播）</li></ol><p><strong>鞍山市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>营口市广播电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li></ol><p><strong>葫芦岛市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><h3 id="吉林省（5套）"><a href="#吉林省（5套）" class="headerlink" title="吉林省（5套）"></a>吉林省（5套）</h3><p><strong>吉林广播电视台</strong></p><ol><li>综合频道（吉林卫视）（高标清同播）</li></ol><p><strong>长春市广播电视台</strong></p><ol><li>综合频道（高标清同播）</li></ol><p><strong>四平市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>辽源市广播电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li><li><del>公共频道（高标清同播）</del>　　//2019年底的《名录》显示已获批，2020年4月的《名录》删去此频道高标清同播的批复信息</li></ol><h3 id="黑龙江省（7套）"><a href="#黑龙江省（7套）" class="headerlink" title="黑龙江省（7套）"></a>黑龙江省（7套）</h3><p><strong>黑龙江广播电视台</strong></p><ol><li>综合频道（黑龙江卫视）（高标清同播）</li><li>都市频道（高标清同播）</li><li>新闻·法治频道（高标清同播）</li></ol><p><strong>哈尔滨市广播电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li></ol><p><strong>伊春市广播电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li></ol><p><strong>黑河市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><h3 id="上海市（11套）"><a href="#上海市（11套）" class="headerlink" title="上海市（11套）"></a>上海市（11套）</h3><p><strong>上海广播电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>东方影视频道（高标清同播）</li><li>第一财经频道（高标清同播）</li><li>五星体育频道（高标清同播）</li><li>纪实人文频道（高标清同播）</li><li>都市频道（高标清同播）</li><li>外语频道（高标清同播）</li><li>东方购物频道（高标清同播）</li><li>哈哈炫动频道（高标清同播）</li><li>东方卫视（高标清同播）</li></ol><p>教育台：<br>上海教育电视台教育教学频道（高标清同播）</p><h3 id="江苏省（50套）"><a href="#江苏省（50套）" class="headerlink" title="江苏省（50套）"></a>江苏省（50套）</h3><p><strong>江苏电视台</strong></p><ol><li>综合频道（江苏卫视）（高标清同播）</li><li>城市频道（高标清同播）</li><li>综艺频道（高标清同播）</li><li>影视频道（高标清同播）</li><li>好享购物频道（高标清同播）</li><li>体育休闲频道（高标清同播）</li><li>公共·新闻频道（高标清同播）</li><li>优漫卡通频道（高标清同播）</li><li>教育频道（高标清同播）</li></ol><p><strong>南京市电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li></ol><p><strong>无锡市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>娱乐频道（高标清同播）</li><li>都市资讯频道（高标清同播）</li><li>经济频道（高标清同播）</li><li>生活频道（高标清同播）</li><li>影视频道（高标清同播）</li></ol><p><strong>徐州市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>经济生活频道（高标清同播）</li><li>文艺影视频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>常州市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>生活频道（高标清同播）</li><li>都市频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>苏州市电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>文化生活频道（高标清同播）</li><li>社会经济频道（高标清同播）</li><li>电影娱乐信息频道（高标清同播）</li><li>生活资讯频道（高标清同播）</li></ol><p><strong>南通市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>教育频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>连云港市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>淮安市广播电视台（全台高清）</strong></p><ol><li>综合频道（高标清同播）</li><li>公共频道（高标清同播）</li><li>影视娱乐频道（高标清同播）</li></ol><p><strong>盐城市广播电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li></ol><p><strong>扬州市广播电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li></ol><p><strong>镇江市广播电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li></ol><p><strong>泰州市广播电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li></ol><p><strong>宿迁市电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p>县级台：<!--苏州下辖6个县级台均已全台高清--><br>江阴市广播电视台电视频道（高标清同播）<!--无锡市--><br>宜兴市广播电视台电视频道（高标清同播）<!--无锡市--><br>吴江区广播电视台电视频道（高标清同播）<!--苏州市--><br>常熟市广播电视台电视频道（高标清同播）<!--苏州市--><br>张家港市广播电视台电视频道（高标清同播）<!--苏州市--><br>昆山市广播电视台电视频道（高标清同播）<!--苏州市--><br>太仓市广播电视台电视频道（高标清同播）<!--苏州市--></p><h3 id="浙江省（22套）"><a href="#浙江省（22套）" class="headerlink" title="浙江省（22套）"></a>浙江省（22套）</h3><p><strong>浙江电视台</strong></p><ol><li>综合频道（浙江卫视）（高标清同播）</li><li>钱江都市频道（高标清同播）</li><li>经济生活频道（高标清同播）</li><li>教科影视频道（高标清同播）</li><li>民生休闲频道（高标清同播）</li><li>公共·新闻频道（高标清同播）</li><li>少儿频道（高标清同播）</li><li>好易购频道（高标清同播）<br>仅限境外落地的频道：</li><li>国际频道（高标清同播）</li></ol><p><strong>杭州市广播电视台</strong></p><ol><li>综合频道（高标清同播）</li></ol><p><strong>温州市广播电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li></ol><p><strong>嘉兴市广播电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>文化影视频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>绍兴市广播电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li></ol><p><strong>金华市广播电视台</strong></p><ol><li>综合频道（高标清同播）</li></ol><p><strong>衢州市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>舟山市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>台州市广播电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li></ol><p>县级台：<br>海宁市广播电视台电视频道（高标清同播）<!--嘉兴市--></p><h3 id="安徽省（29套）"><a href="#安徽省（29套）" class="headerlink" title="安徽省（29套）"></a>安徽省（29套）</h3><p><strong>安徽广播电视台</strong></p><ol><li>新闻综合频道（安徽卫视）（高标清同播）</li><li>经济生活频道（高标清同播）</li><li>影视频道（高标清同播）</li><li>综艺·体育频道（高标清同播）</li><li>农业·科教频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>合肥市广播电视台</strong></p><ol><li>新闻频道（高标清同播）</li><li>生活频道（高标清同播）</li><li>教育法制频道（高标清同播）</li><li>财经频道（高标清同播）</li><li>故事休闲频道（高标清同播）</li></ol><p><strong>马鞍山市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>淮北市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>铜陵市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li><li>教育科技频道（高标清同播）</li></ol><p><strong>安庆市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>阜阳市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>宿州市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li><li>科技教育频道（高标清同播）</li></ol><p><strong>六安市广播电视台（全台高清）</strong></p><ol><li>综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>池州市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><h3 id="福建省（30套）"><a href="#福建省（30套）" class="headerlink" title="福建省（30套）"></a>福建省（30套）</h3><p><strong>福建电视台（全台高清）</strong></p><ol><li>综合频道（高标清同播）</li><li>东南频道（东南卫视）（高标清同播）</li><li>乡村振兴·公共频道（高标清同播）</li><li>新闻频道（高标清同播）</li><li>电视剧频道（高标清同播）</li><li>旅游频道（高标清同播）</li><li>经济生活频道（高标清同播）</li><li>体育频道（高标清同播）</li><li>少儿频道（高标清同播）</li><li>福建海峡电视台（海峡卫视）（高标清同播）</li></ol><p><strong>福州市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>影视频道（高标清同播）</li><li>生活频道（高标清同播）</li><li>少儿频道（高标清同播）</li></ol><p><strong>厦门市电视台</strong></p><ol><li>综合频道（高标清同播）</li><li>海峡频道（高标清同播）</li><li>影视频道（高标清同播）</li><li>厦门市电视台卫视频道（厦门卫视）（高标清同播）</li></ol><p><strong>莆田市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>泉州市广播电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li></ol><p><strong>漳州市电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>龙岩市电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>宁德市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p>县级台：<br>平潭县广播电视台电视频道（高标清同播）<!--福州市--><br>福清市广播电视台电视频道（高标清同播）<!--福州市--><br>晋江市广播电视台电视频道（高标清同播）<!--泉州市--></p><h3 id="江西省（10套）"><a href="#江西省（10套）" class="headerlink" title="江西省（10套）"></a>江西省（10套）</h3><p><strong>江西广播电视台</strong></p><ol><li>综合频道（江西卫视）（高标清同播）</li><li>少儿频道（高标清同播）</li><li>新闻频道（高标清同播）</li></ol><p><strong>南昌市广播电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li></ol><p><strong>新余市广播电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li></ol><p><strong>吉安市广播电视台（全台高清）</strong></p><ol><li>综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>抚州市广播电视台</strong></p><ol><li>综合频道（高标清同播）</li></ol><p><strong>上饶市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><h3 id="山东省（32套）"><a href="#山东省（32套）" class="headerlink" title="山东省（32套）"></a>山东省（32套）</h3><p><strong>山东广播电视台</strong></p><ol><li>新闻综合频道（山东卫视）（高标清同播）</li><li>齐鲁频道（高标清同播）</li><li>影视频道（高标清同播）</li><li>综艺频道（高标清同播）</li><li>生活频道（高标清同播）</li><li>体育频道（高标清同播）</li><li>农村科普频道（高标清同播）</li><li>公共频道（高标清同播）</li><li>少儿频道（高标清同播）</li></ol><p><strong>济南市广播电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>影视频道（高标清同播）</li></ol><p><strong>青岛市广播电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li></ol><p><strong>淄博市广播电视台</strong></p><ol><li>新闻频道（高标清同播）</li></ol><p><strong>东营市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>烟台市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>经济科技频道（高标清同播）</li><li>影视频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>潍坊市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>农业频道（高标清同播）</li><li>公共频道（高标清同播）</li><li>科教频道（高标清同播）</li></ol><p><strong>日照市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>科教频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>临沂市广播电视台</strong></p><ol><li>综合频道（高标清同播）</li></ol><p><strong>德州市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>聊城市电视台（全台高清）</strong></p><ol><li>综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p>教育台：<br>山东教育电视台教育教学频道（高标清同播）</p><h3 id="河南省（6套）"><a href="#河南省（6套）" class="headerlink" title="河南省（6套）"></a>河南省（6套）</h3><p><strong>河南广播电视台</strong></p><ol><li>综合频道（河南卫视）（高标清同播）</li><li>都市频道（高标清同播）</li><li>民生频道（高标清同播）</li></ol><p><strong>洛阳市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>科教频道（高标清同播）</li><li>文旅频道（高标清同播）　　//2020年4月的《名录》中，呼号由“公共频道”调整为“文旅频道”</li></ol><h3 id="湖北省（29套）"><a href="#湖北省（29套）" class="headerlink" title="湖北省（29套）"></a>湖北省（29套）</h3><p><strong>湖北广播电视台</strong></p><ol><li>综合频道（湖北卫视）（高标清同播）</li><li>文艺频道（高标清同播）</li><li>经济频道（高标清同播）</li><li>公共·新闻频道（高标清同播）</li><li>垄上频道（高标清同播）</li></ol><p><strong>武汉市广播电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>电视剧频道（高标清同播）</li><li>文体频道（高标清同播）</li></ol><p><strong>黄石市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>都市频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>十堰市广播电视台（全台高清）</strong></p><ol><li>新闻频道（高标清同播）</li><li>经济旅游频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>宜昌三峡电视台（全台高清）</strong></p><ol><li>综合频道（高标清同播）</li><li>旅游生活频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>襄阳市广播电视台（全台高清）</strong></p><ol><li>综合频道（高标清同播）</li><li>经济生活频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>荆门市广播电视台</strong></p><ol><li>新闻频道（高标清同播）</li></ol><p><strong>荆州市广播电视台（全台高清）</strong></p><ol><li>新闻频道（高标清同播）</li><li>垄上频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>黄冈市广播电视台（全台高清）</strong></p><ol><li>新闻频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>咸宁市广播电视台</strong></p><ol><li>综合频道（高标清同播）</li></ol><p><strong>恩施州广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><h3 id="湖南省（35套）"><a href="#湖南省（35套）" class="headerlink" title="湖南省（35套）"></a>湖南省（35套）</h3><p><strong>湖南广播电视台</strong></p><ol><li>新闻综合频道（湖南卫视）（高标清同播）</li><li>经视频道（高标清同播）</li><li>都市频道（高标清同播）</li><li>金鹰纪实频道（高标清同播）</li><li>娱乐频道（高标清同播）</li><li>电视剧频道（高标清同播）</li><li>电影频道（高标清同播）</li><li>金鹰卡通频道（高标清同播）</li><li>快乐购物频道（高标清同播）</li></ol><p><strong>长沙市广播电视台</strong></p><ol><li>新闻频道（高标清同播）</li><li>政法频道（高标清同播）</li><li>影视频道（高标清同播）</li></ol><p><strong>湘潭市广播电视台</strong></p><ol><li>综合频道（高标清同播）</li></ol><p><strong>邵阳市广播电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li></ol><p><strong>岳阳市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>科教频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>常德市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>张家界市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>益阳市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>郴州市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>永州市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>怀化市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>娄底市广播电视台（全台高清）</strong></p><ol><li>综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>湘西州广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p>教育台：<br>湖南教育电视台教育教学频道（高标清同播）<br>娄底市教育电视台教育教学频道（高标清同播）</p><h3 id="广东省（41套）"><a href="#广东省（41套）" class="headerlink" title="广东省（41套）"></a>广东省（41套）</h3><p><strong>广东广播电视台</strong></p><ol><li>综合频道（广东卫视）（高标清同播）</li><li>珠江频道（高标清同播）</li><li>体育频道（高标清同播）</li><li>经济科教频道（高标清同播）</li><li><strong>综艺频道（4K超高清）</strong></li></ol><p><strong>广州市广播电视台（全台高清）</strong></p><ol><li>综合频道（高标清同播）</li><li>新闻频道（高标清同播）</li><li><strong>南国都市频道（4K超高清）</strong></li><li>竞赛频道（高标清同播）</li><li>法治频道（高标清同播）</li><li>影视频道（高标清同播）</li></ol><p><strong>韶关市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>深圳市电视台（全台高清）</strong></p><ol><li>新闻综合频道（深圳卫视）（高标清同播）</li><li>电视剧频道（高标清同播）</li><li>都市频道（高标清同播）</li><li>娱乐频道（高标清同播）</li><li>体育健康频道（高标清同播）</li><li>少儿频道（高标清同播）</li><li>公共频道（高标清同播）</li><li>财经生活频道（高标清同播）</li></ol><p><strong>珠海市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>肇庆市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>惠州市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>汕尾市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>河源市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>阳江市广播电视台（全台高清）</strong></p><ol><li>综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>清远市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>东莞市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>中山市广播电视台</strong></p><ol><li>公共频道（高标清同播）</li></ol><p><strong>云浮市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>蛇口电视台（特设）</strong></p><ol><li>综合频道（高标清同播）</li></ol><h3 id="广西壮族自治区（2套）"><a href="#广西壮族自治区（2套）" class="headerlink" title="广西壮族自治区（2套）"></a>广西壮族自治区（2套）</h3><p><strong>广西广播电视台</strong></p><ol><li>综合频道（广西卫视）（高标清同播）</li></ol><p><strong>南宁市广播电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li></ol><h3 id="海南省（11套）"><a href="#海南省（11套）" class="headerlink" title="海南省（11套）"></a>海南省（11套）</h3><p><strong>海南广播电视台（全台高清）</strong></p><ol><li>综合频道（海南卫视）（高标清同播）</li><li>经济生活频道（高标清同播）</li><li>公共频道（高标清同播）</li><li>文旅频道（高标清同播）</li><li>少儿频道（高标清同播）</li><li>新闻频道（高标清同播）</li></ol><p><strong>海口市广播电视台（全台高清）</strong></p><ol><li>综合频道（高标清同播）</li><li>生活娱乐频道（高标清同播）</li><li>城乡经济频道（高标清同播）</li></ol><p><strong>三沙市广播电视台（全台高清）</strong></p><ol><li>三沙综合频道（三沙卫视）（高标清同播）</li></ol><p><strong>儋州市广播电视台（全台高清）</strong></p><ol><li>综合频道（高标清同播）</li></ol><h3 id="重庆市（11套）"><a href="#重庆市（11套）" class="headerlink" title="重庆市（11套）"></a>重庆市（11套）</h3><p><strong>重庆电视台</strong></p><ol><li>综合频道（重庆卫视）（高标清同播）</li><li>新闻频道（高标清同播）</li><li>影视频道（高标清同播）</li><li>科教频道（高标清同播）</li><li>都市频道（高标清同播）</li><li>文体娱乐频道（高标清同播）</li><li>生活资讯频道（高标清同播）</li><li>时尚频道（高标清同播）</li><li>公共·农村频道（高标清同播）</li><li>少儿频道（高标清同播）</li><li>时尚购物频道（高标清同播）</li></ol><h3 id="四川省（51套）"><a href="#四川省（51套）" class="headerlink" title="四川省（51套）"></a>四川省（51套）</h3><p><strong>四川广播电视台</strong></p><ol><li>综合频道（四川卫视）（高标清同播）</li><li>文化旅游频道（高标清同播）</li><li>经济频道（高标清同播）</li><li>新闻频道（高标清同播）</li><li>影视文艺频道（高标清同播）</li><li>星空购物频道（高标清同播）</li><li>妇女儿童频道（高标清同播）</li><li>科技教育频道（高标清同播）</li><li>公共·乡村频道（高标清同播）</li><li>峨嵋电影频道（高标清同播）</li><li>康巴藏语卫视频道（康巴卫视）（高标清同播）</li></ol><p><strong>成都市广播电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>自贡市广播电视台</strong></p><ol><li>综合频道（高标清同播）</li></ol><p><strong>攀枝花市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>泸州市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li><li>科技教育频道（高标清同播）</li></ol><p><strong>德阳市广播电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>绵阳市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li><li>科技频道（高标清同播）</li></ol><p><strong>广元市广播电视台</strong></p><ol><li>综合频道（高标清同播）</li></ol><p><strong>遂宁市广播电视台（全台高清）</strong></p><ol><li>综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>内江市广播电视台（全台高清）</strong></p><ol><li>综合频道（高标清同播）</li><li>公共频道（高标清同播）</li><li>科教频道（高标清同播）</li></ol><p><strong>乐山市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>南充市广播电视台（全台高清）</strong></p><ol><li>综合频道（高标清同播）</li><li>公共频道（高标清同播）</li><li>科教频道（高标清同播）</li></ol><p><strong>眉山市广播电视台</strong></p><ol><li>综合频道（高标清同播）</li></ol><p><strong>宜宾市广播电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li></ol><p><strong>广安市广播电视台（全台高清）</strong></p><ol><li>综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>达州市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>雅安市广播电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>巴中市广播电视台（全台高清）</strong></p><ol><li>综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>资阳市广播电视台（全台高清）</strong></p><ol><li>综合频道（高标清同播）</li></ol><p><strong>阿坝州广播电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li></ol><p><strong>甘孜州广播电视台（全台高清）</strong></p><ol><li>综合频道（高标清同播）</li><li>文艺频道（高标清同播）</li></ol><p><strong>凉山州广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>彝语综合频道（高标清同播）</li></ol><h3 id="贵州省（5套）"><a href="#贵州省（5套）" class="headerlink" title="贵州省（5套）"></a>贵州省（5套）</h3><p><strong>贵州广播电视台</strong></p><ol><li>新闻综合频道（贵州卫视）（高标清同播）</li><li>公共频道（高标清同播）</li><li>家有购物频道（高标清同播）</li></ol><p><strong>贵阳市广播电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li></ol><p><strong>安顺市广播电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li></ol><h3 id="云南省（22套）"><a href="#云南省（22套）" class="headerlink" title="云南省（22套）"></a>云南省（22套）</h3><p><strong>云南广播电视台</strong></p><ol><li>综合频道（云南卫视）（高标清同播）</li></ol><p><strong>昆明市广播电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>玉溪市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>保山市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li><li>科教频道（高标清同播）</li></ol><p><strong>昭通市广播电视台</strong></p><ol><li>新闻综合频道（高标清同播）</li></ol><p><strong>普洱市广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li><li>科教频道（高标清同播）</li></ol><p><strong>楚雄州广播电视台（全台高清）</strong></p><ol><li>新闻信息频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>红河州广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>文山州广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>德宏州广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>迪庆州广播电视台（全台高清）</strong></p><ol><li>新闻综合频道（高标清同播）</li><li>藏语频道（康巴藏语）（高标清同播）</li></ol><h3 id="西藏自治区（无）"><a href="#西藏自治区（无）" class="headerlink" title="西藏自治区（无）"></a>西藏自治区（无）</h3><p>…</p><h3 id="陕西省（2套）"><a href="#陕西省（2套）" class="headerlink" title="陕西省（2套）"></a>陕西省（2套）</h3><p><strong>宝鸡市电视台（全台高清）</strong></p><ol><li>综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><h3 id="甘肃省（5套）"><a href="#甘肃省（5套）" class="headerlink" title="甘肃省（5套）"></a>甘肃省（5套）</h3><p><strong>甘肃电视台</strong></p><ol><li>综合频道（甘肃卫视）（高标清同播）</li></ol><p><strong>嘉峪关市广播电视台（全台高清）</strong></p><ol><li>综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><p><strong>天水市广播电视台（全台高清）</strong></p><ol><li>综合频道（高标清同播）</li><li>公共频道（高标清同播）</li></ol><h3 id="青海省（1套）"><a href="#青海省（1套）" class="headerlink" title="青海省（1套）"></a>青海省（1套）</h3><p><strong>青海广播电视台</strong></p><ol><li>新闻综合频道（青海卫视）（高标清同播）</li></ol><h3 id="宁夏回族自治区（3套）"><a href="#宁夏回族自治区（3套）" class="headerlink" title="宁夏回族自治区（3套）"></a>宁夏回族自治区（3套）</h3><p><strong>银川市电视台</strong></p><ol><li>公共频道（高标清同播）</li></ol><p><strong>石嘴山市广播电视台</strong></p><ol><li>综合频道（高标清同播）</li></ol><p>教育台：<br>宁夏教育电视台教育教学频道（高标清同播）</p><h3 id="新疆维吾尔自治区（29套）"><a href="#新疆维吾尔自治区（29套）" class="headerlink" title="新疆维吾尔自治区（29套）"></a>新疆维吾尔自治区（29套）</h3><p><strong>新疆广播电视台（全台高清）</strong></p><ol><li>汉语新闻综合频道（新疆卫视）（高标清同播）</li><li>维吾尔语新闻综合频道（高标清同播）</li><li>哈萨克语新闻综合频道（高标清同播）</li><li>汉语综艺频道（高标清同播）</li><li>维吾尔语影视频道（高标清同播）</li><li>哈萨克语综艺频道（高标清同播）</li><li>汉语经济生活频道（高标清同播）</li><li>维吾尔语经济生活频道（高标清同播）</li><li>汉语影视频道（高标清同播）</li><li>汉语体育健康频道（高标清同播）</li><li>汉语信息服务频道（高标清同播）</li><li>少儿频道（高标清同播）</li></ol><p><strong>乌鲁木齐市广播电视台</strong></p><ol><li>汉语综合频道（高标清同播）</li><li>维吾尔语综合频道（高标清同播）</li></ol><p><strong>克拉玛依市广播电视台（全台高清）</strong></p><ol><li>汉语综合频道（高标清同播）</li><li>维语综合频道（高标清同播）</li><li>汉语影视文艺频道（高标清同播）</li><li>维语影视文艺频道（高标清同播）</li><li>教育频道（高标清同播）</li></ol><p><strong>哈密市广播电视台（全台高清）</strong></p><ol><li>汉语综合频道（高标清同播）</li><li>维语综合频道（高标清同播）</li><li>影视文艺频道（高标清同播）</li></ol><p><strong>伊犁州广播电视台</strong></p><ol><li>汉语综合频道（高标清同播）</li><li>哈语综合频道（高标清同播）</li><li>维语综合频道（高标清同播）</li></ol><p><strong>塔城地区广播电视台（全台高清）</strong></p><ol><li>哈语综合频道（高标清同播）</li><li>汉语综合频道（高标清同播）</li><li>经济信息频道（高标清同播）</li></ol><p>县级台：<br>和田市广播电视台电视频道（高标清同播）<!--和田地区--></p><h3 id="新疆生产建设兵团（无）"><a href="#新疆生产建设兵团（无）" class="headerlink" title="新疆生产建设兵团（无）"></a>新疆生产建设兵团（无）</h3><p>…</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;本列表数据来源于国家广播电视总局公布的&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.nrta.gov.cn/art/2020/10/16/art_113_53341.html&quot;&gt;《地级以上广播电视播出机构及频道频率名录（截至2020年10月）》&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.nrta.gov.cn/art/2020/10/16/art_113_53342.html&quot;&gt;《县级广播电视播出机构名录（截至2020年10月）》&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.nrta.gov.cn/art/2020/10/16/art_113_53343.html&quot;&gt;《教育电视台及频道目录（截至2020年10月）》&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--
+- [《地级以上广播电视播出机构及频道频率名录（截至2020年4月）》](http://www.nrta.gov.cn/art/2020/4/13/art_113_50682.html)
+- [《县级广播电视播出机构名录（截至2020年4月）》](http://www.nrta.gov.cn/art/2020/4/13/art_113_50684.html)
+- [《教育电视台及频道目录（截至2020年4月）》](http://www.nrta.gov.cn/art/2020/4/13/art_113_50683.html)
+
+- [《地级以上广播电视播出机构及频道频率名录（截至2019年底）》](http://www.nrta.gov.cn/art/2020/1/20/art_69_49565.html)
+- [《县级广播电视播出机构名录（截至2019年底）》](http://www.nrta.gov.cn/art/2020/1/20/art_69_49564.html)
+
+- [《地级以上广播电视播出机构及频道频率名录（截至2019年11月）》](http://www.nrta.gov.cn/art/2019/11/21/art_69_48816.html)
+- [《县级广播电视播出机构名录（截至2019年11月）》](http://www.nrta.gov.cn/art/2019/11/21/art_69_48817.html)
+--&gt;
+
+&lt;p&gt;数据按照民政部公布的&lt;a href=&quot;http://www.mca.gov.cn/article/sj/xzqh/&quot;&gt;行政区划代码&lt;/a&gt;排列，除加注“（xx卫视）”之外，未作其它改动。&lt;/p&gt;
+&lt;p&gt;列表数据不包括：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;不受国家广播电视总局管理的香港、澳门以及台湾地区电视台开办的频道。&lt;/li&gt;
+&lt;li&gt;地方已经实施高标清同播，但未报总局批准并备案的电视频道。&lt;/li&gt;
+&lt;li&gt;地方私自开设，未在总局备案的电视频道。&lt;/li&gt;
+&lt;li&gt;付费电视频道、移动电视频道。&lt;/li&gt;
+&lt;/ol&gt;</summary>
+    
+    
+    
+    <category term="other" scheme="https://cahcn.github.io/categories/other/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>北京外语广播将停止使用中波频率774kHz</title>
+    <link href="https://cahcn.github.io/posts/2020-09-16-774kHz-Radio-Beijing-International.html"/>
+    <id>https://cahcn.github.io/posts/2020-09-16-774kHz-Radio-Beijing-International.html</id>
+    <published>2020-09-16T14:17:00.000Z</published>
+    <updated>2020-09-17T13:48:54.788Z</updated>
+    
+    <content type="html"><![CDATA[<p>2020年9月15日，北京外语广播发布<a href="https://mp.weixin.qq.com/s/NnzoFlAdZiz0_8kfWsUB-g">公告</a>，其中波频率774kHz将于2020年9月22日0:00停止发射。<br>中波774kHz停止使用之后，仍可以通过无线调频FM92.3、有线调频97.8和官方网站<a href="http://www.am774.com/">www.am774.com</a> 收听节目。</p><!--北京外语广播官方微博也同步发布了中波AM774停播的公告：https://weibo.com/1752724344/JkM33oYwU --><a id="more"></a><hr><p>北京外语广播大事记：<br>2004年9月1日，北京外语广播试播，对外呼号“Radio 774”，使用频率AM774、有线调频（Cable FM）97.8。<br>2004年9月17日，北京外语广播正式对外播出，呼号仍为“Radio 774”。<br>2008年1月1日，呼号改为“北京人民广播电台外语广播奥运之声”。<br>2008年10月，呼号恢复为“北京人民广播电台外语广播”。<br>2015年1月1日，北京外语广播有线教学广播（有线调频99.4）对全天节目编排进行调整，除保留10:00-12:00《张道真自学英语》节目之外，其余时段改为并机北京外语广播AM774节目。<br>2017年2月28日，北京外语广播AM774新增调频发射，频率FM92.3。<br>2020年9月22日，北京外语广播中波频率AM774停止使用。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;2020年9月15日，北京外语广播发布&lt;a href=&quot;https://mp.weixin.qq.com/s/NnzoFlAdZiz0_8kfWsUB-g&quot;&gt;公告&lt;/a&gt;，其中波频率774kHz将于2020年9月22日0:00停止发射。&lt;br&gt;中波774kHz停止使用之后，仍可以通过无线调频FM92.3、有线调频97.8和官方网站&lt;a href=&quot;http://www.am774.com/&quot;&gt;www.am774.com&lt;/a&gt; 收听节目。&lt;/p&gt;
+&lt;!--北京外语广播官方微博也同步发布了中波AM774停播的公告：https://weibo.com/1752724344/JkM33oYwU --&gt;</summary>
+    
+    
+    
+    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>15285kHz 中国乡村之声</title>
+    <link href="https://cahcn.github.io/posts/2020-08-24-15285kHz-CNR16.html"/>
+    <id>https://cahcn.github.io/posts/2020-08-24-15285kHz-CNR16.html</id>
+    <published>2020-08-24T13:46:08.000Z</published>
+    <updated>2020-08-24T15:31:21.545Z</updated>
+    
+    <content type="html"><![CDATA[<p>2020年8月24日下午，15285kHz出现中央人民广播电台中国乡村之声的信号，具体参数、发射目的不详。</p><a id="more"></a><!--据了解，北京发射的中国乡村之声中波频率720kHz目前处于停机状态。很有可能是继[2017年5月发射台检修](http://blog.sina.com.cn/s/blog_7ae04bef0102xg57.html)之后，时隔三年再次对发射台设备进行检修，在中波频率720kHz检修期间，临时启用短波频率15285kHz代为发射（仍需进一步确认）。--><p>北京时间19:00接收15285kHz，除了中国乡村之声的信号之外，还有一路中国之声的信号，两个电台的信号相互干扰，目的不明。</p><p>接收视频如下（通过中国上海的KiwiSDR接收）：<br><a href="https://youtu.be/sPotKELpzbI">https://youtu.be/sPotKELpzbI</a><br><a href="https://youtu.be/AzHmeUMJe3A">https://youtu.be/AzHmeUMJe3A</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;2020年8月24日下午，15285kHz出现中央人民广播电台中国乡村之声的信号，具体参数、发射目的不详。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>中国交通广播新增落地</title>
+    <link href="https://cahcn.github.io/posts/2020-08-11-CNR15.html"/>
+    <id>https://cahcn.github.io/posts/2020-08-11-CNR15.html</id>
+    <published>2020-08-11T09:54:22.000Z</published>
+    <updated>2020-08-24T15:15:06.003Z</updated>
+    
+    <content type="html"><![CDATA[<p>2020年8月上半月，中国交通广播新增落地山东济南、广西南宁以及吉林长春三地。</p><a id="more"></a><p>具体落地情况如下：<br>2020年8月1日，中国交通广播落地山东济南，频率FM94.1。<br>2020年8月7日前后，中国交通广播落地广西南宁，频率FM88.7。<br>2020年8月11日，中国交通广播落地吉林长春，频率FM90.5。</p><hr><p>截至2020年8月中旬，中国交通广播在各省的覆盖频率：<br>FM99.6　京津塘地区，河北廊坊、张家口<br>FM101.2　河北大部分城市<br>FM98.8　河北雄安新区<br>FM90.5　湖南<br>FM94.8　湖北武汉<br>FM95.5　上海<br>FM100.6　内蒙古呼和浩特<br>FM103.5　陕西西安<br>FM106.5　山西太原<br>FM91.7　甘肃兰州<br>FM101.9　宁夏银川<br>FM91.7　新疆乌鲁木齐<br>FM104.7　河南郑州<br>FM101.4　黑龙江哈尔滨<br>FM87.5　江苏<br>FM94.1　山东济南<br>FM87.7　四川成都<br>FM88.7　广西南宁<br>FM90.5　吉林长春<br>FM87.5　浙江（规划频率）<br>FM100.4　安徽合肥（规划频率）</p><p>根据中央人民广播电台2018年公开的发展规划，预计到2020年底，中国交通广播将实现全国范围内的组网覆盖。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;2020年8月上半月，中国交通广播新增落地山东济南、广西南宁以及吉林长春三地。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>海峡之声广播电台频率调整</title>
+    <link href="https://cahcn.github.io/posts/2020-08-02-Voice-of-Strait.html"/>
+    <id>https://cahcn.github.io/posts/2020-08-02-Voice-of-Strait.html</id>
+    <published>2020-08-02T14:16:17.000Z</published>
+    <updated>2020-08-24T14:51:34.984Z</updated>
+    
+    <content type="html"><![CDATA[<p>2020年8月1日，海峡之声广播电台对旗下的广播频率进行全面调整。</p><a id="more"></a><p>福州地区FM90.6海峡之声汽车生活广播停播，FM90.6频率改为转播AM666海峡之声新闻广播。<br>福州地区FM99.6海峡之声都市阳光调频，呼号调整为“海峡之声文化生活广播”，节目由24小时播放欧美流行音乐，改为播放华语音乐。<br>厦门地区FM97.9海峡之声综合广播停播，FM97.9频率改为转播AM783海峡之声闽南语广播。</p><p>调整后，海峡之声广播电台名义上开办的频道由五套节目缩减为三套节目。</p><table><thead><tr><th align="center">节目</th><th align="center">中波</th><th align="center">调频</th><th align="center">短波</th></tr></thead><tbody><tr><td align="center">海峡之声新闻广播</td><td align="center">AM666</td><td align="center">FM90.6（福州）</td><td align="center">4940kHz</td></tr><tr><td align="center">海峡之声闽南语广播</td><td align="center">AM783</td><td align="center">FM97.9（厦门）</td><td align="center">4900kHz</td></tr><tr><td align="center">海峡之声文化生活广播</td><td align="center">/</td><td align="center">FM99.6（福州）</td><td align="center">/</td></tr></tbody></table>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;2020年8月1日，海峡之声广播电台对旗下的广播频率进行全面调整。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>广西2020年7月31日关停所有在播地面模拟电视信号</title>
+    <link href="https://cahcn.github.io/posts/2020-08-01.html"/>
+    <id>https://cahcn.github.io/posts/2020-08-01.html</id>
+    <published>2020-08-01T11:21:10.000Z</published>
+    <updated>2020-08-14T13:44:54.290Z</updated>
+    
+    <content type="html"><![CDATA[<p>按照《国家广播电视总局关于按规划关停地面模拟电视有关工作安排的通知》（广电发〔2020〕42号）、<br>《广西壮族自治区广播电视局关于按规划关停地面模拟电视有关工作安排的通知》（桂广发〔2020〕77号）要求，<br>2020年7月31日，广西全区关停所有在播地面模拟电视信号。</p><a id="more"></a><p>地面模拟电视信号关停之后，用户可以选择接收地面数字电视（DTMB）信号，免费收看15套或15套以上的电视节目。<br><em>（包括CCTV-1/2/4/10/12/13/14/15、CCTV-9/11/17/CGTN/省一/省二/市一/县一等节目，以各地实际发射为准）</em></p><p>截至2020年7月底，广西目前是中国大陆为数不多的完全关闭地面模拟电视信号发射的省级行政区之一。<br>其它未完全关停地面模拟电视信号发射的省份，仍在按规划、分批次开展地面模拟电视信号关停工作，<a href="/posts/2020-04-10.html">预计2021年3月31日前完成</a>。</p><p><img src="https://gitee.com/bcler/fmdx/raw/master/img/2020-08-01/DS-8_BSTV_20200731.jpg" class="lazyload" data-srcset="https://gitee.com/bcler/fmdx/raw/master/img/2020-08-01/DS-8_BSTV_20200731.jpg" srcset="data:image/png;base64,666" alt="DS-8_BSTV_20200731"><br><img src="https://gitee.com/bcler/fmdx/raw/master/img/2020-08-01/DS-8_BSTV_20200801.jpg" class="lazyload" data-srcset="https://gitee.com/bcler/fmdx/raw/master/img/2020-08-01/DS-8_BSTV_20200801.jpg" srcset="data:image/png;base64,666" alt="DS-8_BSTV_20200801"><br><img src="https://gitee.com/bcler/fmdx/raw/master/img/2020-08-01/DS-10_GXTV_20200731.jpg" class="lazyload" data-srcset="https://gitee.com/bcler/fmdx/raw/master/img/2020-08-01/DS-10_GXTV_20200731.jpg" srcset="data:image/png;base64,666" alt="DS-10_GXTV_20200731"><br><img src="https://gitee.com/bcler/fmdx/raw/master/img/2020-08-01/DS-10_GXTV_20200801.jpg" class="lazyload" data-srcset="https://gitee.com/bcler/fmdx/raw/master/img/2020-08-01/DS-10_GXTV_20200801.jpg" srcset="data:image/png;base64,666" alt="DS-10_GXTV_20200801"><br><img src="https://gitee.com/bcler/fmdx/raw/master/img/2020-08-01/DS-15_GXTV-2_20200731.jpg" class="lazyload" data-srcset="https://gitee.com/bcler/fmdx/raw/master/img/2020-08-01/DS-15_GXTV-2_20200731.jpg" srcset="data:image/png;base64,666" alt="DS-15_GXTV-2_20200731"><br><img src="https://gitee.com/bcler/fmdx/raw/master/img/2020-08-01/DS-15_GXTV-2_20200801.jpg" class="lazyload" data-srcset="https://gitee.com/bcler/fmdx/raw/master/img/2020-08-01/DS-15_GXTV-2_20200801.jpg" srcset="data:image/png;base64,666" alt="DS-15_GXTV-2_20200801"><br><img src="https://gitee.com/bcler/fmdx/raw/master/img/2020-08-01/DS-20_CCTV-1_20200731.jpg" class="lazyload" data-srcset="https://gitee.com/bcler/fmdx/raw/master/img/2020-08-01/DS-20_CCTV-1_20200731.jpg" srcset="data:image/png;base64,666" alt="DS-20_CCTV-1_20200731"><br><img src="https://gitee.com/bcler/fmdx/raw/master/img/2020-08-01/DS-20_CCTV-1_20200801.jpg" class="lazyload" data-srcset="https://gitee.com/bcler/fmdx/raw/master/img/2020-08-01/DS-20_CCTV-1_20200801.jpg" srcset="data:image/png;base64,666" alt="DS-20_CCTV-1_20200801"><br><img src="https://gitee.com/bcler/fmdx/raw/master/img/2020-08-01/DS-45_CCTV-17_20200731.jpg" class="lazyload" data-srcset="https://gitee.com/bcler/fmdx/raw/master/img/2020-08-01/DS-45_CCTV-17_20200731.jpg" srcset="data:image/png;base64,666" alt="DS-45_CCTV-17_20200731"><br><img src="https://gitee.com/bcler/fmdx/raw/master/img/2020-08-01/DS-45_CCTV-17_20200801.jpg" class="lazyload" data-srcset="https://gitee.com/bcler/fmdx/raw/master/img/2020-08-01/DS-45_CCTV-17_20200801.jpg" srcset="data:image/png;base64,666" alt="DS-45_CCTV-17_20200801"></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;按照《国家广播电视总局关于按规划关停地面模拟电视有关工作安排的通知》（广电发〔2020〕42号）、&lt;br&gt;《广西壮族自治区广播电视局关于按规划关停地面模拟电视有关工作安排的通知》（桂广发〔2020〕77号）要求，&lt;br&gt;2020年7月31日，广西全区关停所有在播地面模拟电视信号。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="other" scheme="https://cahcn.github.io/categories/other/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>中国大陆各省计划关停地面模拟电视信号时间（持续更新）</title>
+    <link href="https://cahcn.github.io/posts/2020-04-10.html"/>
+    <id>https://cahcn.github.io/posts/2020-04-10.html</id>
+    <published>2020-07-30T14:41:24.000Z</published>
+    <updated>2020-11-10T03:14:23.578Z</updated>
+    
+    <content type="html"><![CDATA[<p>中国大陆各省计划关停地面模拟电视信号的时间。</p><p>国家广播电视总局关于按规划关停地面模拟电视有关工作的通知（广电发〔2020〕42号）</p><blockquote><p>为全面推动广播电视无线传输覆盖网的数字化转型升级，促进广播电视高质量发展，向广大群众提供更多更好的广播电视公共服务，广电总局根据2012年印发的《地面数字电视广播覆盖网发展规划》（以下简称《发展规划》），决定自2020年6月15日启动关停中央、省、市、县地面模拟电视信号工作，积极引导群众接收合法的地面数字电视信号，如期完成《发展规划》既定工作目标。现通知如下：<br>  <!--换行占位--><br>  一、时间安排<br>  （一）中央节目地面模拟电视信号的关停<br>  自2020年6月15日起，各地启动中央节目地面模拟电视信号关停工作，2020年8月31日前完成，有特殊情况的经广电总局批准后，于2020年12月31日前完成关停。<br>  （二）地方节目地面模拟电视信号的关停<br>  自2020年6月15日起，各地启动地方节目地面模拟电视信号关停工作，完成时间由各省级广播电视行政部门结合本地实际制订具体实施计划，已实现数字化播出的，于2020年12月31日前完成关停，其他未实现数字化播出的要加快完成数字化，于2021年3月31日前完成关停。</p></blockquote><a id="more"></a><p>各省地面模拟电视完全关停时间（按照行政区划代码排序）：</p><table><thead><tr><th align="center">省份</th><th>中央节目</th><th>省级节目</th><th>市县节目</th></tr></thead><tbody><tr><td align="center">山西</td><td>2020年8月1日</td><td>（未明确）</td><td>（未明确）</td></tr><tr><td align="center">内蒙古</td><td>直属台站：2020年7月15日<br>其它台站：2020年8月31日<br></td><td>直属台站：2020年8月15日<br>已发射数字信号：2020年9月底<br>未发射数字信号：2020年底</td><td>已发射数字信号：2020年8月底<br>未发射数字信号：2020年底</td></tr><tr><td align="center">吉林</td><td>2020年11月17日</td><td>2020年12月8日</td><td>市州台：2020年12月15日<br>县级台：2020年12月22日</td></tr><tr><td align="center">黑龙江</td><td>2020年8月31日</td><td>2020年12月31日</td><td>2020年12月31日</td></tr><tr><td align="center">江苏</td><td>2020年8月10日</td><td>2020年8月10日</td><td>2020年8月10日</td></tr><tr><td align="center">安徽</td><td>2020年8月31日</td><td>2020年12月31日</td><td>2020年12月31日</td></tr><tr><td align="center">福建</td><td>（未明确）</td><td>2020年10月30日</td><td>2020年10月30日</td></tr><tr><td align="center">山东</td><td>2020年8月1日</td><td>2020年9月1日</td><td>2020年10月15日</td></tr><tr><td align="center">湖南</td><td>2020年8月31日</td><td>2020年12月31日</td><td>2020年12月31日</td></tr><tr><td align="center">广东</td><td>2020年8月31日</td><td>第一批：2020年6月28日（<a href="http://www.nrta.gov.cn/art/2020/7/1/art_114_51950.html">实际停播</a>）<br>第二批：2020年10月30日</td><td>第一批：2020年6月28日（<a href="http://www.nrta.gov.cn/art/2020/7/1/art_114_51950.html">实际停播</a>）<br>第二批：2020年10月30日</td></tr><tr><td align="center">广西</td><td>2020年7月31日</td><td>2020年7月31日</td><td>2020年7月31日</td></tr><tr><td align="center">海南</td><td>2020年8月31日</td><td>第一批：2020年8月31日<br>第二批：2020年10月31日</td><td>2020年8月31日</td></tr><tr><td align="center">重庆</td><td>2020年8月31日</td><td>2020年8月31日</td><td>2020年8月31日</td></tr><tr><td align="center">贵州</td><td>2020年8月20日</td><td>（未明确）</td><td>（未明确）</td></tr><tr><td align="center">云南</td><td>2020年7月31日</td><td>已发射数字信号：2020年11月30日<br>未发射数字信号：2021年3月31日</td><td>已发射数字信号：2020年11月30日<br>未发射数字信号：2021年3月31日</td></tr><tr><td align="center">陕西</td><td>2020年8月31日</td><td>2021年3月31日</td><td>2021年3月31日</td></tr><tr><td align="center">甘肃</td><td>2020年8月31日</td><td>2020年8月31日</td><td>2020年8月31日</td></tr><tr><td align="center">青海</td><td>2020年8月31日</td><td>已发射数字信号：2020年12月31日<br>未发射数字信号：2021年3月31日</td><td>已发射数字信号：2020年12月31日<br>未发射数字信号：2021年3月31日</td></tr><tr><td align="center">新疆</td><td>2020年10月31日</td><td>第一批：2020年10月31日<br>第二批：2020年11月30日</td><td>第一批：2020年10月31日<br>第二批：2020年11月30日</td></tr></tbody></table><p>此外，<a href="/posts/2019-02-12-analogue-television-services-in-hongkong.html">香港将于2020年11月30日终止模拟电视广播</a>。</p><hr><!--赤峰市新闻出版广电局直属台站地面数字电视节目开播情况表：| 发射台名 | 台址 | 频道 | 播出节目 | 功率 || :-----: | :----: | :----: | :----: | :----: || 801转播台 | 红山区南山 | DS-33 | 中一等8套节目 | 1 || 801转播台 | 红山区南山 | DS-47 | 中七等4套节目 | 1 || 801转播台 | 红山区南山 | DS-25 | 内蒙古蒙语、内蒙古汉语 | 1 || 802转播台 | 克什克腾旗赛罕敖包山 | DS-31 | 中七等4套节目 | 1 || 802转播台 | 克什克腾旗赛罕敖包山 | DS-33 | 中一等8套节目 | 1 || 802转播台 | 克什克腾旗赛罕敖包山 | DS-30 | 内蒙古蒙语、内蒙古汉语 | 1 || 803转播台 | 巴林左旗林东镇豁子梁山 | DS-31 | 中七等4套节目 | 1 || 803转播台 | 巴林左旗林东镇豁子梁山 | DS-33 | 中一等8套节目 | 1 || 803转播台 | 巴林左旗林东镇豁子梁山 | DS-42 | 内蒙古蒙语、内蒙古汉语 | 1 || 二窝铺电视转播台 | 克什克腾旗二窝铺山 | DS-31 | 中七等4套节目 | 1 || 二窝铺电视转播台 | 克什克腾旗二窝铺山 | DS-33 | 中一等8套节目 | 1 || 二窝铺电视转播台 | 克什克腾旗二窝铺山 | DS-17 | 内蒙古蒙语、内蒙古汉语 | 1 || C115微波站 | 克什克腾旗嘎松山 | DS-31 | 中七等4套节目 | 0.05 || C115微波站 | 克什克腾旗嘎松山 | DS-33 | 中一等8套节目 | 0.05 || C115微波站 | 克什克腾旗嘎松山 | DS-22 | 内蒙古蒙语、内蒙古汉语 | 1 || 经棚广播电视发射中心 | 克什克腾旗经棚镇 | DS-31 | 中七等4套节目 | 1 || 经棚广播电视发射中心 | 克什克腾旗经棚镇 | DS-33 | 中一等8套节目 | 1 || 经棚广播电视发射中心 | 克什克腾旗经棚镇 | DS-23 | 内蒙古蒙语、内蒙古汉语 | 1 || C118微波站 | 巴林右旗大板镇翁根山 | DS-31 | 中七等4套节目 | 1 || C118微波站 | 巴林右旗大板镇翁根山 | DS-33 | 中一等8套节目 | 1 || C118微波站 | 巴林右旗大板镇翁根山 | DS-25 | 内蒙古蒙语、内蒙古汉语 | 1 || C119微波站 | 翁牛特旗白音汉山 | DS-31 | 中七等4套节目 | 0.05 || C119微波站 | 翁牛特旗白音汉山 | DS-33 | 中一等8套节目 | 0.05 || C119微波站 | 翁牛特旗白音汉山 | DS-40 | 内蒙古蒙语、内蒙古汉语 | 1 || C120微波站 | 翁牛特旗平顶山 | DS-31 | 中七等4套节目 | 0.05 || C120微波站 | 翁牛特旗平顶山 | DS-33 | 中一等8套节目 | 0.05 || C120微波站 | 翁牛特旗平顶山 | DS-41 | 内蒙古蒙语、内蒙古汉语 | 1 || C123微波站 | 阿鲁科尔沁旗天山镇 | DS-31 | 中七等4套节目 | 1 || C123微波站 | 阿鲁科尔沁旗天山镇 | DS-33 | 中一等8套节目 | 1 || C123微波站 | 阿鲁科尔沁旗天山镇 | DS-37 | 内蒙古蒙语、内蒙古汉语 | 1 |（旗县地面数字电视同频网：DS-31中七等4套节目、DS-33中一等8套节目）包头市文化旅游广电局市属发射台站数字电视节目开播统计表：| 发射台名 | 所在地址 | 频道 | 播出节目 | 功率 || :-----: | :------: | :----: | :----: | :----: || 包头710发射台 | 钢铁大街12号 | 35CH | 中一等八套节目 | 1 || 包头710发射台 | 钢铁大街12号 | 44CH | 中十七等四套节目 | 1 || 包头710发射台 | 钢铁大街12号 | 39CH | 内蒙古新闻综合频道（蒙语），包头一、二、三套节目 | 1 || 包头东河微波站 | 稀土高新区交界营子村东 | 29CH | 内蒙古卫视、 内蒙古蒙语卫视 | 1 || 包头东河微波站 | 稀土高新区交界营子村东 | 39CH | 内蒙古新闻综合频道（蒙语），包头一、二、三套节目 | 1 || 包头大塔站 | 九原区张家营子北 | 39CH | 内蒙古新闻综合频道（蒙语），包头一、二、三套节目 | 1 || 包头土右站 | 萨拉齐镇振华大街土右微波站 | 35CH | 中一等八套节目 | 1 || 包头土右站 | 萨拉齐镇振华大街土右微波站 | 44CH | 中十七等四套节目 | 1 || 包头土右站 | 萨拉齐镇振华大街土右微波站 | 19CH | 内蒙古卫视、 内蒙古新闻综合频道（蒙语） | 1 || 包头党三尧发射台 | 土默特右旗党三尧乡党三尧村 | 35CH | 中一等八套节目 | 0.05 || 包头党三尧发射台 | 土默特右旗党三尧乡党三尧村 | 44CH | 中十七等四套节目 | 0.05 |重庆市文化和旅游发展委员会全市关停地面模拟电视频道一览【已删除关停的频道】一、中央节目| 区县 | 发射台站 | 使用频道 | 功率 | 节目名称 || :----: | :----: | :----: | :------: | :-----: || 渝中区 | 重庆广播电视技术中心电视发射台 | DS-2 | 1 | 中央电视台综合频道 || 万州区 | 重庆广播电视技术中心706台 | DS-36 | 3 | 中央电视台综合频道 || 万州区 | 重庆广播电视技术中心706台 | DS-48 | 3 | 中央电视台农业农村频道 || 万州区 | 万州区电视发射台 | DS-9 | 0.05 | 中央电视台综合频道 || 黔江区 | 黔江区7292广播电视发射台 | DS-30 | 1 | 中央电视台综合频道 || 黔江区 | 黔江区7292广播电视发射台 | DS-44 | 1 | 中央电视台农业农村频道 || 巴南区 | 巴南区天星寺广播电视发射台 | DS-18 | 0.3 | 中央电视台综合频道 || 巴南区 | 巴南区天星寺广播电视发射台 | DS-33 | 0.3 | 中央电视台农业农村频道 || 长寿区 | 长寿区西山广播电视发射台 | DS-38 | 0.3 | 中央电视台综合频道 || 长寿区 | 长寿区西山广播电视发射台 | DS-32 | 1 | 中央电视台农业农村频道 || 永川区 | 重庆广播电视技术中心黄泥塘发射台 | DS-9 | 0.3 | 中央电视台综合频道 || 永川区 | 重庆广播电视技术中心黄泥塘发射台 | DS-48 | 0.3 | 中央电视台农业农村频道 || 永川区 | 永川区萱花寺广播电视发射台 | DS-11 | 0.05 | 中央电视台综合频道 || 永川区 | 永川区萱花寺广播电视发射台 | DS-6 | 0.05 | 中央电视台农业农村频道 || 綦江区 | 綦江区白云观广播电视发射台 | DS-31 | 1 | 中央电视台综合频道 || 綦江区 | 綦江区白云观广播电视发射台 | DS-34 | 1 | 中央电视台农业农村频道 || 铜梁区 | 重庆广播电视技术中心巴岳山发射台 | DS-36 | 1 | 中央电视台综合频道 || 铜梁区 | 重庆广播电视技术中心巴岳山发射台 | DS-41 | 1 | 中央电视台农业农村频道 || 荣昌区 | 荣昌区玉屏山广播电视发射台 | DS-4 | 0.3 | 中央电视台综合频道 || 荣昌区 | 荣昌区玉屏山广播电视发射台 | DS-27 | 0.3 | 中央电视台农业农村频道 || 开州区 | 开州区尖包山广播电视发射台 | DS-19 | 1 | 中央电视台综合频道 || 开州区 | 开州区尖包山广播电视发射台 | DS-25 | 1 | 中央电视台农业农村频道 || 梁平区 | 梁平区大狮子岩广播电视发射台 | DS-16 | 1 | 中央电视台综合频道 || 梁平区 | 梁平区大狮子岩广播电视发射台 | DS-40 | 1 | 中央电视台农业农村频道 || 梁平区 | 梁平区箩斗寨广播电视发射台 | DS-11 | 0.1 | 中央电视台综合频道 || 武隆区 | 武隆区龙洞坪广播电视发射台 | DS-31 | 1 | 中央电视台综合频道 || 武隆区 | 武隆区龙洞坪广播电视发射台 | DS-25 | 1 | 中央电视台农业农村频道 || 丰都县 | 丰都县红花坡广播电视发射台 | DS-43 | 1 | 中央电视台综合频道 || 丰都县 | 丰都县红花坡广播电视发射台 | DS-46 | 1 | 中央电视台农业农村频道 || 垫江县 | 垫江县凤山广播电视发射台 | DS-31 | 3 | 中央电视台综合频道 || 垫江县 | 垫江县凤山广播电视发射台 | DS-37 | 3 | 中央电视台农业农村频道 || 奉节县 | 奉节县乌云顶广播电视发射台 | DS-33 | 1 | 中央电视台综合频道 || 奉节县 | 奉节县乌云顶广播电视发射台 | DS-39 | 1 | 中央电视台农业农村频道 || 巫山县 | 巫山县望天坪广播电视发射台 | DS-31 | 1 | 中央电视台综合频道 || 巫山县 | 巫山县望天坪广播电视发射台 | DS-37 | 1 | 中央电视台农业农村频道 || 巫溪县 | 巫溪县凤竹槽广播电视发射台 | DS-9 | 0.3 | 中央电视台综合频道 || 巫溪县 | 巫溪县凤竹槽广播电视发射台 | DS-35 | 1 | 中央电视台农业农村频道 || 彭水县 | 彭水县雷拱盖广播电视发射台 | DS-3 | 1 | 中央电视台综合频道 || 彭水县 | 彭水县雷拱盖广播电视发射台 | DS-14 | 1 | 中央电视台农业农村频道 || 彭水县 | 彭水县观音岩广播电视发射台 | DS-4 | 0.05 | 中央电视台综合频道 || 万盛经开区 | 万盛区方家山广播电视发射台 | DS-23 | 0.3 | 中央电视台综合频道 || 万盛经开区 | 万盛区方家山广播电视发射台 | DS-29 | 0.3 | 中央电视台农业农村频道 |二、市级节目...三、区县节目| 区县 | 发射台站 | 使用频道 | 功率 | 节目名称 || :----: | :----: | :----: | :------: | :-----: || 万州区 | 重庆广播电视技术中心706台 | DS-6 | 3 | 万州区广播电视台综合频道 || 永川区 | 永川区萱花寺广播电视发射台 | DS-19 | 0.05 | 永川区广播电视台综合频道 |--><p>来源：<br>国家广播电视总局关于按规划关停地面模拟电视有关工作安排的通知（广电发〔2020〕42号）<br><a href="http://www.nrta.gov.cn/art/2020/7/22/art_114_52191.html">国家广播电视总局地面数字电视科普问答</a><br><a href="http://sxwg.sx.gov.cn/art/2020/6/18/art_1647287_47456504.html">浙江省广播电视局转发国家广播电视总局关于按规划关停地面模拟电视有关工作安排的通知</a></p><p><a href="http://gbdsj.gd.gov.cn/zxzx/tzgg/content/post_2956731.html">广东省广播电视局关于实施《广东省省市县地面模拟电视节目信号停播方案》的公告</a> （2020年3月30日公开）<br><a href="http://gd.shandong.gov.cn/articles/ch02458/202004/a13c14c7-b293-4953-bb32-c9e2f3b6ee70.shtml">山东省广播电视局关于做好关停地面模拟电视节目相关工作的通知</a>（鲁广电字〔2020〕59号） （2020年4月10日公开）<br><a href="http://gbdsj.nmg.gov.cn/index.php?m=content&c=index&a=show&catid=52&id=2563">内蒙古自治区广播电视局关于实施《关停无线模拟电视节目信号工作方案》的公告</a> （2020年6月19日公开）<br><a href="http://whlyw.cq.gov.cn/zwxx_221/bmdt/tzgg/202007/t20200701_7629715.html">重庆市文化和旅游发展委员会关于实施《重庆市关停地面模拟电视工作方案》的公告</a> （2020年7月1日公开）<br><a href="http://gd.shandong.gov.cn/articles/ch02458/202007/8ca9de6c-886b-41ef-8514-dfa53f459cec.shtml">山东省广播电视局关于印发《山东省地面模拟电视节目关停方案》的通知</a>（鲁广电字〔2020〕102号） （2020年7月2日公开）<br><a href="http://lwt.hainan.gov.cn/xxgk_55333/0200/0202/202007/t20200717_2820182.html">海南省旅游和文化广电体育厅关于实施《海南省地面模拟电视信号停播方案》的公告</a> （2020年7月17日公开）<br><a href="http://ynsgbdsj.yn.gov.cn/xg_xxgk/xg_xxgk_tzgg/202007/t20200720_1017619.htm">云南省广播电视局关于印发实施《云南省地面模拟电视信号关停方案》《云南省地面模拟电视信号关停计划》的通知</a> （2020年7月20日公开）<br><a href="http://gdj.qinghai.gov.cn/content/5f1656c33fdee1176c359b4f.html">青海省广播电视局关于实施《青海省省级、市（州）级、县级无线地面模拟电视节目信号关停方案》的通告</a> （2020年7月21日公开）<br><a href="http://gdj.qinghai.gov.cn/content/5f1656c33fdee1176c359b4f.html">青海省广播电视局关于印发《青海省省级、市（州）级、县级无线地面模拟电视节目信号关停方案》的通知</a>（青广局办发〔2020〕28号） （2020年7月21日公开）<br><a href="http://gdj.shanxi.gov.cn/gzdt/tzgg/202007/t20200727_831781.html">山西省广播电视局关停地面无线模拟电视信号的公告</a> （2020年7月27日公开）<br><a href="http://gdj.shaanxi.gov.cn/info/1586/20109.htm">陕西省广播电视局关于关停无线模拟电视信号的公告</a> （2020年7月30日公开）<br><a href="http://jsgd.jiangsu.gov.cn/art/2020/7/31/art_69983_9334747.html">江苏省广播电视局关于关停地面模拟电视节目的公告</a> （2020年7月31日公开）<br><a href="http://hljgdj.hlj.gov.cn/html/index/content/2020/08/11596528858083.html">黑龙江省广播电视局地面模拟电视关停公告</a> （2020年8月4日公开）<br><a href="http://gdj.shaanxi.gov.cn/info/1586/20138.htm">陕西省广播电视局关于印发《陕西省地面模拟电视节目关停方案》的通知</a> （2020年8月6日公开）<!--http://gdj.shaanxi.gov.cn/info/1717/20140.htm --><br><a href="http://gbdsj.hunan.gov.cn/gbdsj/xxgk/tzgg/202008/t20200810_13364404.html">湖南省广播电视局地面模拟电视关停公告</a> （2020年8月10日公开）<br><a href="http://gdj.ah.gov.cn/xwzx/tzgg/144866921.html">安徽省广播电视局关于关停本地地面模拟电视节目的公告</a> （2020年9月3日公开）<br><a href="http://gdj.jl.gov.cn/zwgk/tzgg/202011/t20201104_7692205.html">吉林省广播电视局2020年关停我省地面模拟电视节目的公告</a> （2020年11月4日公开）<!--https://mp.weixin.qq.com/s/U0p6ltfe_Px4LPp0gVDE2Q --></p><p><a href="http://gbdsj.gxzf.gov.cn/qjgz/t5887509.shtml">广西高标准严要求提前完成无线模拟电视关停工作</a> （2020年8月4日公开）<br><a href="http://gbdsj.guizhou.gov.cn/ywgz/bwc/202009/t20200902_62849756.html">贵州省完成中央电视节目无线模拟信号关停工作</a> （2020年9月2日公开）<!--https://mp.weixin.qq.com/s/sjz2uE4VtL6PYBH5BJGAzQ、https://www.gzstv.com/a/aecc5ebcd20c4e36a302c947e1451a03 --><br><a href="http://gbdsj.hunan.gov.cn/gbdsj/xxgk/gzdt/sjxx/202009/t20200904_13702082.html">湖南省广电局稳步推进地面模拟电视信号关停工作</a> （2020年9月4日公开）<br><a href="http://gdj.gansu.gov.cn/home/news/detail/aid/23866.html">甘肃省地面模拟电视已全部关停</a> （2020年9月8日公开）<br><a href="http://gdj.fujian.gov.cn/xw/sjgz/202011/t20201102_5426688.htm">福建省完成关停地面模拟电视节目信号工作</a> （2020年10月30日公开）</p><p>河北省广播电视局关停地面模拟电视工作方案<br>内蒙古自治区广播电视局关于印发《关停无线模拟电视信号工作方案》的通知（内广发〔2020〕206号）<br>辽宁省广播电视局关停无线模拟电视信号工作方案<br>吉林省广播电视局《吉林省地面模拟电视节目关停方案》<br>黑龙江省广播电视局关停地面模拟电视工作方案<br>江苏省广播电视局关于关停地面模拟电视的通知（苏广电发〔2020〕22号）<br>浙江省广播电视局关于按规划关停地面模拟电视有关工作安排的通知<br>安徽省广播电视局关于做好地面模拟电视信号关停和本地节目地面数字电视覆盖网建设工作的通知（皖广明电〔2020〕71号）<!--https://mp.weixin.qq.com/s/z6h_rpHJ8TgVBLzx4kjPZA --><br>江西省广播电视局关于按规划关停地面模拟电视有关工作安排的通知（赣广技字〔2020〕34号）<br>河南省广播电视局关停无线模拟电视信号工作方案<br>湖北省广播电视局 鄂广发〔2020〕11号文件<br>湖南省广播电视局关于印发《湖南省地面模拟电视关停工作实施方案》的通知（湘广电发〔2020〕42号）<br>广西壮族自治区广播电视局关于按规划关停地面模拟电视有关工作安排的通知（桂广发〔2020〕77号）<br>重庆市文化和旅游发展委员会关于印发《重庆市关停地面模拟电视工作方案》的通知（渝文旅发〔2020〕120号）<br>四川省广播电视局关于按规划关停地面模拟电视有关工作安排的通知（川广发〔2020〕20号）<br>贵州省广播电视局关于印发《贵州省关停地面模拟电视工作方案》的通知<br>云南省广播电视局关于落实总局按规划关停地面模拟电视有关工作安排的通知（云广发〔2020〕161号）<br>西藏自治区广播电视局关于关停地面模拟电视有关工作安排的通知<br>陕西省广播电视局关于按规划关停地面模拟电视有关工作安排的通知（陕广电事〔2020〕53号）<br>甘肃省广播电视局关于按规划关停地面模拟电视有关工作的通知（甘广局明电发〔2020〕15号）<br>新疆维吾尔自治区广播电视局《全疆地面模拟电视节目信号停播方案》<!--https://www.sohu.com/a/418195695_120205518 --></p><!--[2018年10月10日，邯郸电视台新闻频道无线模拟发射信号关停](https://mp.weixin.qq.com/s/FqDRcVM80PndQA67ECuGzA)[2019年7月15日，中山市模拟电视信号正式关停](https://mp.weixin.qq.com/s/xYVWPDlpSDMsNOkwP8lvtw)https://mp.weixin.qq.com/s/EK_0msSSU9YRyaM1cv4XzQ-->]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;中国大陆各省计划关停地面模拟电视信号的时间。&lt;/p&gt;
+&lt;p&gt;国家广播电视总局关于按规划关停地面模拟电视有关工作的通知（广电发〔2020〕42号）&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;为全面推动广播电视无线传输覆盖网的数字化转型升级，促进广播电视高质量发展，向广大群众提供更多更好的广播电视公共服务，广电总局根据2012年印发的《地面数字电视广播覆盖网发展规划》（以下简称《发展规划》），决定自2020年6月15日启动关停中央、省、市、县地面模拟电视信号工作，积极引导群众接收合法的地面数字电视信号，如期完成《发展规划》既定工作目标。现通知如下：&lt;br&gt;  &lt;!--换行占位--&gt;&lt;br&gt;  一、时间安排&lt;br&gt;  （一）中央节目地面模拟电视信号的关停&lt;br&gt;  自2020年6月15日起，各地启动中央节目地面模拟电视信号关停工作，2020年8月31日前完成，有特殊情况的经广电总局批准后，于2020年12月31日前完成关停。&lt;br&gt;  （二）地方节目地面模拟电视信号的关停&lt;br&gt;  自2020年6月15日起，各地启动地方节目地面模拟电视信号关停工作，完成时间由各省级广播电视行政部门结合本地实际制订具体实施计划，已实现数字化播出的，于2020年12月31日前完成关停，其他未实现数字化播出的要加快完成数字化，于2021年3月31日前完成关停。&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="other" scheme="https://cahcn.github.io/categories/other/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>云南香格里拉之声备案呼号调整为云南国际广播</title>
+    <link href="https://cahcn.github.io/posts/2020-07-03-Yunnan-Media-Group.html"/>
+    <id>https://cahcn.github.io/posts/2020-07-03-Yunnan-Media-Group.html</id>
+    <published>2020-07-03T07:19:26.000Z</published>
+    <updated>2020-07-03T08:15:24.658Z</updated>
+    
+    <content type="html"><![CDATA[<p>2020年7月1日，云南省广播电视局在其官网公开了云南广播电视台两套节目备案呼号调整的<a href="http://ynsgbdsj.yn.gov.cn/xg_xxgk/xg_xxgk_tzgg/202007/t20200701_1015062.htm">消息</a>。<br>原文如下：</p><blockquote><p>云南广播电视台调整开办旅游广播的申请获得总局批准<br> 2020年6月11日，国家广播电视总局批准云南广播电视台少儿广播调整为旅游广播、香格里拉之声广播调整为国际广播。 </p></blockquote><a id="more"></a><p>早在<a href="/posts/2019-02-15-Voice-of-Shangri-La.html">2019年初</a>，认证信息为“云南广播电视台”的微信公众号“云南国际广播”，已经开始使用“云南国际广播”的呼号和Logo发布消息，<br>但该呼号未在对内的FM99及对外的短波6035kHz，整点、半点报时及全天节目中出现。</p><hr><p>截至2020年7月，云南广播电视台共开办9套电视频道、8套广播频率：<br>广播频率<br>1.云南新闻广播<br>2.云南经济广播<br>3.云南国际广播（原云南香格里拉之声）<br>4.云南教育广播<br>5.云南音乐广播<br>6.云南交通之声<br>7.云南民族广播<br>8.云南旅游广播（原云南少儿广播）</p><p>电视频道<br>1.云南卫视<br>2.云南都市频道<br>3.云南娱乐频道<br>4.云南生活资讯频道（实际为购物频道）<br>5.云南影视频道<br>6.云南公共频道<br>7.云南少儿频道<br>8.云南移动电视频道<br>9.云南澜湄国际卫视（仅限中国以外地区落地，备案呼号为“云南国际频道”）</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;2020年7月1日，云南省广播电视局在其官网公开了云南广播电视台两套节目备案呼号调整的&lt;a href=&quot;http://ynsgbdsj.yn.gov.cn/xg_xxgk/xg_xxgk_tzgg/202007/t20200701_1015062.htm&quot;&gt;消息&lt;/a&gt;。&lt;br&gt;原文如下：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;云南广播电视台调整开办旅游广播的申请获得总局批准&lt;br&gt; 2020年6月11日，国家广播电视总局批准云南广播电视台少儿广播调整为旅游广播、香格里拉之声广播调整为国际广播。 &lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>中国之声2020年7月1日调整部分节目编排</title>
+    <link href="https://cahcn.github.io/posts/2020-07-02-CNR1.html"/>
+    <id>https://cahcn.github.io/posts/2020-07-02-CNR1.html</id>
+    <published>2020-07-02T08:31:45.000Z</published>
+    <updated>2020-07-03T13:37:01.556Z</updated>
+    
+    <content type="html"><![CDATA[<p>2020年7月1日，中央人民广播电台中国之声对全天部分节目编排进行调整。</p><p>新开播《新闻有观点》、《新闻超链接》、《朝花夕拾》三档节目，<br>《全球华语广播网》改为《正午60分》，《养生大讲堂》、《央广夜新闻》节目取消，《悦动清晨》更名《云听清晨》。<br>开播于2004年，陪伴听众16年的夜间节目《千里共良宵》，结束在传统媒体平台的播出，转为网络广播。</p><a id="more"></a><p>此次节目改版，增加新闻节目在全天节目的占比，压缩了综合节目的时长，<br>招致部分听众发出“中国之声已沦为新闻广播、节目种类单一化”的不满与批评。</p><hr><p>中国之声节目时间表（2020年7月1日6:00起）<br>00:00-00:30　档案揭秘（中国国际广播电台环球资讯广播节目）<br>00:30-01:00　记录中国<br>01:00-03:00　昨日新闻重现<br>03:00-04:00　新闻有观点（重播）<br>04:00-05:00　朝花夕拾（重播）<br>05:00-06:00　云听清晨<br>06:00-06:30　国防时空<br>06:30-07:00　新闻和报纸摘要<br>07:00-09:00　新闻纵横<br>09:00-09:30　新闻和报纸摘要（重播）<br>09:30-12:00　新闻进行时<br>12:00-13:00　正午60分<br>13:00-16:30　新闻进行时<br>16:30-18:30　新闻晚高峰<br>18:30-19:00　全国新闻联播<br>19:00-20:00　新闻有观点<br>20:00-20:30　小喇叭<br>20:30-21:00　全国新闻联播（重播）<br>21:00-22:00　新闻超链接<br>22:00-23:00　决胜时刻<br>23:00-00:00　朝花夕拾</p><p>2020年7月1日调整前的节目编排：<br>00:00-02:00　千里共良宵<br>02:00-02:30　记录中国<br>02:30-04:00　昨日新闻重现<br>04:00-05:00　养生大讲堂<br>05:00-06:00　悦动清晨<br>06:00-06:30　国防时空<br>06:30-07:00　新闻和报纸摘要<br>07:00-09:00　新闻纵横<br>09:00-09:30　新闻和报纸摘要（重播）<br>09:30-12:00　新闻进行时<br>12:00-13:00　全球华语广播网<br>13:00-16:30　新闻进行时<br>16:30-18:30　新闻晚高峰<br>18:30-19:00　全国新闻联播<br>19:00-20:00　新闻晚高峰<br>20:00-20:30　小喇叭<br>20:30-21:00　全国新闻联播（重播）<br>21:00-22:00　决胜时刻<br>22:00-00:00　央广夜新闻</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;2020年7月1日，中央人民广播电台中国之声对全天部分节目编排进行调整。&lt;/p&gt;
+&lt;p&gt;新开播《新闻有观点》、《新闻超链接》、《朝花夕拾》三档节目，&lt;br&gt;《全球华语广播网》改为《正午60分》，《养生大讲堂》、《央广夜新闻》节目取消，《悦动清晨》更名《云听清晨》。&lt;br&gt;开播于2004年，陪伴听众16年的夜间节目《千里共良宵》，结束在传统媒体平台的播出，转为网络广播。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>11995kHz CNR DRM</title>
+    <link href="https://cahcn.github.io/posts/2020-05-13-11995kHz-CNR-DRM.html"/>
+    <id>https://cahcn.github.io/posts/2020-05-13-11995kHz-CNR-DRM.html</id>
+    <published>2020-05-13T12:20:13.000Z</published>
+    <updated>2020-12-12T16:27:04.699Z</updated>
+    
+    <content type="html"><![CDATA[<p>2020年5月14日，中央人民广播电台DRM短波数字广播试验播出频率9420、7360kHz停止发射，改为使用11995kHz发射。</p><p>根据官方公布的信息，11995kHz在黑龙江齐齐哈尔发射，功率30kW，面向华北地区发射。<br>发射时间由08:00-18:00缩减为09:00-18:00，方位角由203°恢复为225°。</p><p>调整后，齐齐哈尔发射的DRM广播时间如下：<br>0900-1800　11995kHz<br>1800-2000　9870kHz</p><p><a href="https://mp.weixin.qq.com/s/77JJ0sMnuBhNzh5WUZZnBg">https://mp.weixin.qq.com/s/77JJ0sMnuBhNzh5WUZZnBg</a></p><a id="more"></a><p><strong>频率异动（测试期间信息持续更新）</strong><br>2020年5月18日09:00-18:00，11995kHz暂停发射，改为发射动态测试频率<br>2020年6月10日09:00-12:00，11995kHz停机，08:30-12:00改用13850kHz发射<br>2020年6月16日-19日，每天15:00-17:00，11995kHz停机<br>2020年10月9日-15日，11995kHz停机<br><a href="/posts/2020-11-01-CNR-DRM-B20.html">2020年10月25日，11995kHz停止发射，上午下午拆分为两个频率13850、11990kHz，发射时间由09:00-18:00调整为08:00-17:00，其它参数与原11995kHz一致</a></p><hr><p>中国之声DRM广播频率：<a href="https://cahcn.github.io/drm/">https://cahcn.github.io/drm/</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;2020年5月14日，中央人民广播电台DRM短波数字广播试验播出频率9420、7360kHz停止发射，改为使用11995kHz发射。&lt;/p&gt;
+&lt;p&gt;根据官方公布的信息，11995kHz在黑龙江齐齐哈尔发射，功率30kW，面向华北地区发射。&lt;br&gt;发射时间由08:00-18:00缩减为09:00-18:00，方位角由203°恢复为225°。&lt;/p&gt;
+&lt;p&gt;调整后，齐齐哈尔发射的DRM广播时间如下：&lt;br&gt;0900-1800　11995kHz&lt;br&gt;1800-2000　9870kHz&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/77JJ0sMnuBhNzh5WUZZnBg&quot;&gt;https://mp.weixin.qq.com/s/77JJ0sMnuBhNzh5WUZZnBg&lt;/a&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>BBR广西北部湾之声A20节目时间表</title>
+    <link href="https://cahcn.github.io/posts/2020-04-08-Beibu-Bay-Radio.html"/>
+    <id>https://cahcn.github.io/posts/2020-04-08-Beibu-Bay-Radio.html</id>
+    <published>2020-04-09T10:04:16.000Z</published>
+    <updated>2020-04-09T10:20:23.923Z</updated>
+    
+    <content type="html"><![CDATA[<p>A20到来，广西北部湾之声短波时段节目无大变动，仍旧以线性节目+音乐为主。</p><p>与<a href="/posts/2019-10-31-Beibu-Bay-Radio.html">B19节目表</a>相比较，取消了欧美流行音乐节目《PEEP》，改为《BBR资讯魔方》节目。<br>21:30-21:45播出的《一词一世界》节目，语种由缅甸语变更为老挝语。<br>另外，为应对新型冠状病毒肺炎（COVID-19）疫情，短波时段增加相关专题节目，普及科学防护知识。</p><p>非短波发射时段（9:02-17:45）还有较多的自办节目，但是同样用大时段的线性节目+音乐填补自办节目的不足。</p><a id="more"></a><p>2020年4月9日收听，广西北部湾之声短波频率</p><ul><li>5050kHz，北京时间17:45开机发射，</li><li>9820kHz，北京时间17:48开机发射。</li></ul><!--2020年4月9日收听，5050kHz，17:44:40开机9820kHz，17:47:46开机--><p>短波时段各语种安排（以主要节目为主，不包括线性节目）：<br>17:45-19:30　汉语<br>19:30-20:00　粤语<br>20:00-21:00　越南语<br>21:00-22:00　汉语<br>22:00-23:00　越南语(CRI)<br>23:00-23:30　汉语<br>23:30-00:00　泰语<br>06:48-07:00　测试音乐<br>07:00-09:00　汉语</p><p>短波时段节目表（包括线性节目）：<br>17:45-18:00　音乐<br>18:00-18:30　文墨中国、美在广西、东盟风情<br>18:30-19:00　转播广西卫视《广西新闻》<br>19:00-19:30　转播CCTV-1《新闻联播》★<br>19:30-20:00　华人世界（粤语）、粤语金曲（粤语）、东盟风情<br>20:00-20:30　天气预报（越南语）、越南语节目▲<br>20:30-21:00　越南语节目▲<br>21:00-21:30　<strong>预防新型冠状病毒肺炎专题节目</strong>、美在广西、东盟风情<br>21:30-21:45　《一词一世界》（老挝语时刻）<br>21:45-22:00　文墨中国、城市惠生活<br>22:00-23:00　CRI越南语节目<br>23:00-23:30　BBR资讯魔方、《一词一世界》（汉语+英语）<br>23:30-00:00　泰语节目▲<!--节目开始提到“魅力中国”，是否为节目名称待确认-->、东盟歌曲大串烧<br>00:00　全天播音结束<br>00:03　短波结束发射<br>06:48-07:00　测试音乐<br>07:00-09:00　转播CCTV-13《朝闻天下》<br>09:00-09:02　<strong>预防新型冠状病毒肺炎宣传</strong>、天气预报（越南语）<br>09:02　短波结束发射</p><p>★ 由于CCTV-1《新闻联播》节目自2017年四季度以来经常超时播出，导致北部湾之声19:30之后的节目经常不能按时播放。<br>▲ 外语水平有限，无法听懂节目名称。</p><p>BBR广西北部湾之声在线收听：<br><a href="http://video.bbrtv.com/index.php?option=com_content&amp;ItemId=11">http://video.bbrtv.com/index.php?option=com_content&amp;ItemId=11</a></p><hr><ul><li>B19节目时间表：<a href="https://cahcn.github.io/posts/2019-10-31-Beibu-Bay-Radio.html">https://cahcn.github.io/posts/2019-10-31-Beibu-Bay-Radio.html</a></li><li>B17节目时间表：<a href="https://cahcn.github.io/posts/2017-11-27-Beibu-Bay-Radio.html">https://cahcn.github.io/posts/2017-11-27-Beibu-Bay-Radio.html</a></li></ul>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;A20到来，广西北部湾之声短波时段节目无大变动，仍旧以线性节目+音乐为主。&lt;/p&gt;
+&lt;p&gt;与&lt;a href=&quot;/posts/2019-10-31-Beibu-Bay-Radio.html&quot;&gt;B19节目表&lt;/a&gt;相比较，取消了欧美流行音乐节目《PEEP》，改为《BBR资讯魔方》节目。&lt;br&gt;21:30-21:45播出的《一词一世界》节目，语种由缅甸语变更为老挝语。&lt;br&gt;另外，为应对新型冠状病毒肺炎（COVID-19）疫情，短波时段增加相关专题节目，普及科学防护知识。&lt;/p&gt;
+&lt;p&gt;非短波发射时段（9:02-17:45）还有较多的自办节目，但是同样用大时段的线性节目+音乐填补自办节目的不足。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>广东省计划2020年10月底关停省市县地面模拟电视信号</title>
+    <link href="https://cahcn.github.io/posts/2020-04-02-analogue-television-in-guangdong.html"/>
+    <id>https://cahcn.github.io/posts/2020-04-02-analogue-television-in-guangdong.html</id>
+    <published>2020-04-02T09:53:10.000Z</published>
+    <updated>2020-04-19T02:59:54.832Z</updated>
+    
+    <content type="html"><![CDATA[<p>2020年3月30日，广东省广播电视局在其官网公开了<a href="http://gbdsj.gd.gov.cn/zxzx/tzgg/content/post_2956731.html">《广东省省市县地面模拟电视节目信号停播方案》</a>。<br>方案提到，将分三个阶段开展关停工作，逐步关停广东省内省、市、县三级地面模拟电视节目信号，计划在2020年10月底完成。</p><p>根据山东省广播电视局公开的<a href="http://gd.shandong.gov.cn/articles/ch02458/202004/a13c14c7-b293-4953-bb32-c9e2f3b6ee70.shtml">信息</a>，总局将于2020年6月1日至8月31日关停中央地面模拟电视节目信号。</p><a id="more"></a><p>停播规划如下：<br><img src="https://gitee.com/bcler/fmdx/raw/master/img/2020-04-02/guangdong.png" class="lazyload" data-srcset="https://gitee.com/bcler/fmdx/raw/master/img/2020-04-02/guangdong.png" srcset="data:image/png;base64,666"></p><p>第一批地面模拟电视信号计划于2020年6月30日前关停；<br>第二批地面模拟电视信号计划于2020年10月30日前关停。</p><p>目前，中国大陆仅有广东省明确关停地面模拟电视信号的时间。</p><!--此前曾有消息称，上海市将于2021年前关停地面模拟电视信号，官方并未公开其具体的关停方案。--><!--文件备份：https://drive.google.com/open?id=1-4iatnkwa2YbReyLydV5mEvAanSksH6w --><p><a href="http://gbdsj.gd.gov.cn/zxzx/tzgg/content/post_2956731.html">http://gbdsj.gd.gov.cn/zxzx/tzgg/content/post_2956731.html</a><br><a href="http://gbdsj.gd.gov.cn/zxzx/hydt/content/post_2963851.html">http://gbdsj.gd.gov.cn/zxzx/hydt/content/post_2963851.html</a><br><a href="http://www.nrta.gov.cn/art/2020/4/1/art_114_50599.html">http://www.nrta.gov.cn/art/2020/4/1/art_114_50599.html</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;2020年3月30日，广东省广播电视局在其官网公开了&lt;a href=&quot;http://gbdsj.gd.gov.cn/zxzx/tzgg/content/post_2956731.html&quot;&gt;《广东省省市县地面模拟电视节目信号停播方案》&lt;/a&gt;。&lt;br&gt;方案提到，将分三个阶段开展关停工作，逐步关停广东省内省、市、县三级地面模拟电视节目信号，计划在2020年10月底完成。&lt;/p&gt;
+&lt;p&gt;根据山东省广播电视局公开的&lt;a href=&quot;http://gd.shandong.gov.cn/articles/ch02458/202004/a13c14c7-b293-4953-bb32-c9e2f3b6ee70.shtml&quot;&gt;信息&lt;/a&gt;，总局将于2020年6月1日至8月31日关停中央地面模拟电视节目信号。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="other" scheme="https://cahcn.github.io/categories/other/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>中央人民广播电台粤港澳大湾区之声扩大覆盖</title>
+    <link href="https://cahcn.github.io/posts/2020-02-28-CNR7.html"/>
+    <id>https://cahcn.github.io/posts/2020-02-28-CNR7.html</id>
+    <published>2020-02-29T02:06:18.000Z</published>
+    <updated>2020-03-04T11:29:02.065Z</updated>
+    
+    <content type="html"><![CDATA[<p>2019年12月上旬，中央人民广播电台曾就<a href="/posts/2019-12-19-CNR7.html">粤港澳大湾区之声落地澳门项目</a>采购发射设备。<br>官方公开的招标文件，并没有公开具体的频率信息，只提到在珠海使用1kW调频发射机面向澳门发射。</p><a id="more"></a><p>2020年2月28日，本人在收听粤港澳大湾区之声节目时，发现整点台呼中增加了珠三角地区收听频率的播报。<br>通过回听往期节目发现，早在2020年1月6日，大湾区之声整点台呼就已经更改播报内容，对比如下：</p><p>2020年1月5日23:00整点台呼播报内容：<br><a href="http://cnvod.cnr.cn/audio2018/live/hxzs/202001/tyxkx_20200106000823hxzs_h.m4a">http://cnvod.cnr.cn/audio2018/live/hxzs/202001/tyxkx_20200106000823hxzs_h.m4a</a></p><blockquote><p>（粤语）<br>  一流湾区，一流生活。<br>  您现正收听的是大湾区之声，<br>  FM101.2、AM1215，<br>  畅游湾区，心随声动。</p></blockquote><p>2020年1月6日0:00整点台呼播报内容：<br><a href="http://cnvod.cnr.cn/audio2018/live/hxzs/202001/qqqg_20200106021450hxzs_h.m4a">http://cnvod.cnr.cn/audio2018/live/hxzs/202001/qqqg_20200106021450hxzs_h.m4a</a></p><blockquote><p>（粤语）<br>  一流湾区，一流生活。<br>  您现正收听的是大湾区之声，<br>  广州FM98.0、深圳FM101.2、珠海FM105.4、佛山FM93.2，<br>  畅游湾区，心随声动。</p></blockquote><p>新台呼明确提到珠海新增使用FM105.4发射大湾区之声节目。</p><p>除在珠海新增独立频率转播大湾区之声外，广东省广电局在其官网公开的<a href="http://gbdsj.gd.gov.cn/zxzx/tzgg/content/post_2908441.html">《2019年度广东省广播电视局工作总结》</a>中提到：</p><blockquote><p><strong>推动“大湾区之声”在广东落地覆盖</strong><br>  组织广东广播电视台、深圳广播电影电视集团、珠海市广播电视台转播“大湾区之声”，<br>  组织广州、佛山、惠州、东莞、中山、江门、肇庆市广播电视台启用调频广播频率，<br>  高效、高速、高质量完成“大湾区之声”在珠三角地区覆盖落地任务。</p></blockquote><p>通过搜索发现，广州广播电视台、肇庆广播电视台旗下广播频率早晚开辟固定时段，转播大湾区之声节目。<br>2019年9月28日起，FM102.7广州金曲音乐广播每天7:30-8:00转播《港清楚》、18:00-18:30转播《湾区在线》节目。<br>2019年9月29日起，FM94.9肇庆旅游之声每天7:30-8:00转播《港清楚》、18:00-18:30转播《湾区在线》节目。</p><p><a href="http://news.cctv.com/2019/09/28/ARTI4ARaOWRh7f3W8ykZDc9g190928.shtml">http://news.cctv.com/2019/09/28/ARTI4ARaOWRh7f3W8ykZDc9g190928.shtml</a> <!--备份：http://sz.people.com.cn/n2/2019/0928/c202846-33398197.html --><br><a href="http://wz.zhaoqing.gov.cn/wzpt/index.php?act=political&amp;op=political_content&amp;political_id=1254738">http://wz.zhaoqing.gov.cn/wzpt/index.php?act=political&amp;op=political_content&amp;political_id=1254738</a><br><a href="http://www.crystalradio.cn/thread-1805353-1-1.html">http://www.crystalradio.cn/thread-1805353-1-1.html</a></p><p>（2020年3月4日更新）<br>根据实际收听，以下大湾区范围内的广播电台也同步转播大湾区之声节目。<br>FM104.0东莞音乐广播每天7:30-8:00转播《港清楚》、18:00-18:30转播《湾区在线》节目。<br>FM100.0惠州综合广播每天7:30-8:00转播《港清楚》、18:00-18:30转播《湾区在线》节目。<br>FM100.2江门综合广播每天7:30-8:00转播《港清楚》、18:00-18:30转播《湾区在线》节目。<br>FM96.7中山综合广播每天7:30-8:00转播《港清楚》、18:00-18:30转播《湾区在线》节目。</p><!--其它城市广播电视台的转播情况，暂未知。--><hr><p>截至2020年2月底，大湾区之声覆盖频率如下：<br><strong>独立频率</strong><br>FM98.0　广州市<br>FM101.2　中山市五桂山发射台（覆盖深圳市、香港）<br>FM93.2　佛山市<br>FM105.4　珠海市（覆盖澳门）<br>AM1215　珠海市</p><p><strong>合作转播频率</strong><br>每天7:30-8:00、18:00-18:30转播<br>FM102.7　广州金曲音乐广播（广州汽车音乐电台）<br>FM94.9　肇庆旅游之声<br>FM104.0　东莞音乐广播<br>FM100.0　惠州综合广播<br>FM100.2　江门综合广播<br>FM96.7　中山综合广播</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;2019年12月上旬，中央人民广播电台曾就&lt;a href=&quot;/posts/2019-12-19-CNR7.html&quot;&gt;粤港澳大湾区之声落地澳门项目&lt;/a&gt;采购发射设备。&lt;br&gt;官方公开的招标文件，并没有公开具体的频率信息，只提到在珠海使用1kW调频发射机面向澳门发射。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>各地方广播电视频道转播2020年央视春晚情况</title>
+    <link href="https://cahcn.github.io/posts/2020-01-25-CCTV-Spring-Festival-Gala.html"/>
+    <id>https://cahcn.github.io/posts/2020-01-25-CCTV-Spring-Festival-Gala.html</id>
+    <published>2020-01-24T16:59:04.000Z</published>
+    <updated>2020-02-01T14:43:43.338Z</updated>
+    
+    <content type="html"><![CDATA[<p>本列表记录各地方台在农历己亥年除夕夜（2020年1月24日晚间）转播CCTV春节联欢晚会情况，<br>列表中提到的央视、卫视、广西台电视频道按照“<a href="/posts/2018-02-07-96335-Baise.html">广西广电网络百色分公司数字电视频道列表</a>”排序。</p><p>特别说明：<br>延边卫视已不在广西广电网络有线数字电视落地。<br>三沙卫视于除夕前在广西IPTV平台落地，此次统计未列入该频道。<br>广西区内电视台通过广西广电网络小象互动平台时移回看功能收看到。</p><p>往年的记录：</p><ul><li><a href="/posts/2018-02-16-CCTV-Spring-Festival-Gala.html">各地方广播电视频道转播2018年央视春晚情况</a></li><li><a href="/posts/2019-02-05-CCTV-Spring-Festival-Gala.html">各地方广播电视频道转播2019年央视春晚情况</a></li></ul><a id="more"></a><h3 id="电视频道"><a href="#电视频道" class="headerlink" title="电视频道"></a>电视频道</h3><ol><li><p>去台标转播<br>贺州综合</p></li><li><p>转播时地方台台标与央视台标并列（均位于屏幕左上角）<br>东方卫视 北京卫视 浙江卫视 黑龙江卫视 江苏卫视 广东卫视 山东卫视 河南卫视 山西卫视<br>贵州卫视 海南卫视</p></li><li><p>转播时地方台台标移至屏幕右上角<br>南宁新闻综合<br>湖南卫视 重庆卫视<br>（其中：南宁新闻综合频道的高清信号台标调整至央视直播标下方，高清标取消显示）</p></li><li><p>盖央视台标转播<br>广西卫视 广西综艺旅游 广西影视<br>梧州新闻综合 防城港新闻综合 贵港新闻综合 百色综合 来宾桂中综合 崇左综合<br>辽宁卫视 安徽卫视 江西卫视 湖北卫视 四川卫视 云南卫视 天津卫视 东南卫视 河北卫视<br>内蒙古卫视 吉林卫视 宁夏卫视 青海卫视 中国教育-1 兵团卫视 陕西卫视 西藏卫视<br>（其中：因广西台主要频道已完成高清改造，广西卫视标清、广西综艺旅游频道、广西影视频道转播CCTV-1高清信号）</p></li><li><p>不转播<br>柳州新闻综合 桂林新闻综合 北海新闻综合 钦州综合 玉林新闻综合 河池新闻综合<br>南方卫视（粤语频道，没必要转播）<br>深圳卫视（播放2020知识春晚）<br>甘肃卫视（播放常规节目）<br>新疆卫视（播出常规节目）</p></li></ol><h3 id="广播频道"><a href="#广播频道" class="headerlink" title="广播频道"></a>广播频道</h3><ol><li><p>完整转播<br>广西综合 广西教育 广西文艺 广西交通<br>中国之声</p></li><li><p>不转播<br>广西经济（播出常规节目）<br>百色综合（播出常规节目）<br>百色音乐（播出常规节目）</p></li></ol>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;本列表记录各地方台在农历己亥年除夕夜（2020年1月24日晚间）转播CCTV春节联欢晚会情况，&lt;br&gt;列表中提到的央视、卫视、广西台电视频道按照“&lt;a href=&quot;/posts/2018-02-07-96335-Baise.html&quot;&gt;广西广电网络百色分公司数字电视频道列表&lt;/a&gt;”排序。&lt;/p&gt;
+&lt;p&gt;特别说明：&lt;br&gt;延边卫视已不在广西广电网络有线数字电视落地。&lt;br&gt;三沙卫视于除夕前在广西IPTV平台落地，此次统计未列入该频道。&lt;br&gt;广西区内电视台通过广西广电网络小象互动平台时移回看功能收看到。&lt;/p&gt;
+&lt;p&gt;往年的记录：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/posts/2018-02-16-CCTV-Spring-Festival-Gala.html&quot;&gt;各地方广播电视频道转播2018年央视春晚情况&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/posts/2019-02-05-CCTV-Spring-Festival-Gala.html&quot;&gt;各地方广播电视频道转播2019年央视春晚情况&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary>
+    
+    
+    
+    <category term="other" scheme="https://cahcn.github.io/categories/other/"/>
+    
+    
+  </entry>
+  
+</feed>
