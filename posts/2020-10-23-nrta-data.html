@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
-<head hexo-theme='https://github.com/volantis-x/hexo-theme-volantis/tree/4.2.0'>
+  <head hexo-theme='https://github.com/volantis-x/hexo-theme-volantis/tree/4.3.0'>
   <meta charset="utf-8">
   <!-- SEO相关 -->
   
@@ -16,6 +16,9 @@
   <meta name="HandheldFriendly" content="True" >
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  
+  <link rel="preload" href="/css/first.css" as="style">
+  
 
   <!-- 页面元数据 -->
   
@@ -54,10 +57,11 @@
 
   <script id="loadcss"></script>
 
+  
 </head>
 
-<body>
-  
+  <body>
+    
 
 <header id="l_header" class="l_header auto shadow blur show" style='opacity: 0' >
   <div class='container'>
@@ -628,8 +632,8 @@
   </div>
 </header>
 
-  <div id="l_body">
-    <div id="l_cover">
+    <div id="l_body">
+      <div id="l_cover">
   
     
         <div id="full" class='cover-wrapper post blank' style="display: none;">
@@ -643,9 +647,9 @@
   
   </div>
 
-    <div id='safearea'>
-      <div class='body-wrapper' id="pjax-container">
-        
+      <div id="safearea">
+        <div class="body-wrapper" id="pjax-container">
+          
 
 <div class='l_main'>
   <article class="article post white-box reveal md shadow article-type-post" id="post" itemscope itemprop="blogPost">
@@ -706,6 +710,7 @@
   </div>
 
 
+  
   
   <p>2020年，广电总局传媒机构管理司加快推动广播电视频道频率资源整合、结构优化、精简精办工作。</p>
 <p>下表为2019年11月至2020年10月获总局批复调整呼号的广播频率、电视频道。</p>
@@ -1255,13 +1260,9 @@
         </a>
       
       
-        <a class='next' href='/posts/2018-03-01-High-Definition-Television.html'>
-          <p class='title'>经总局批准的4K超高清/高清电视频道（截至2020年10月）<i class="fas fa-chevron-right" aria-hidden="true"></i></p>
-          <p class='content'>本列表数据来源于国家广播电视总局公布的
-
-《地级以上广播电视播出机构及频道频率名录（截至2020年10月）》
-《县级广播电视播出机构名录（截至2020年10月）》
-《教育电视台及频道目录（截至2...</p>
+        <a class='next' href='/posts/2020-09-16-774kHz-Radio-Beijing-International.html'>
+          <p class='title'>北京外语广播将停止使用中波频率774kHz<i class="fas fa-chevron-right" aria-hidden="true"></i></p>
+          <p class='content'>2020年9月15日，北京外语广播发布公告，其中波频率774kHz将于2020年9月22日0:00停止发射。中波774kHz停止使用之后，仍可以通过无线调频FM92.3、有线调频97.8和官方网...</p>
         </a>
       
     </div>
@@ -1302,9 +1303,8 @@
 
 
 
-        
-        
-          <!--此文件用来存放一些不方便取值的变量-->
+		  
+		  <!--此文件用来存放一些不方便取值的变量-->
 <!--思路大概是将值藏到重加载的区域内-->
 
 <script>
@@ -1320,9 +1320,8 @@
   
 </script>
 
+        </div>
         
-      </div>
-      
   
   <footer class="footer clearfix">
     <br><br>
@@ -1370,11 +1369,11 @@
   </footer>
 
 
-      <a id="s-top" class="fas fa-arrow-up fa-fw" href='javascript:void(0)'></a>
+        <a id="s-top" class="fas fa-arrow-up fa-fw" href="javascript:void(0)"></a>
+      </div>
     </div>
-  </div>
-  <div>
-    <script>
+    <div>
+      <script>
 window.volantis={};
 window.volantis.loadcss=document.getElementById("loadcss");
 /********************脚本懒加载函数********************************/
@@ -1519,6 +1518,19 @@ var loadCSS = function( href, before, media, attributes ){
 
 
 
+<script>
+  function loadIssuesJS() {
+    if ($(".md").find(".issues-api").length == 0) return;
+    setTimeout(function() {
+	
+	  loadScript('https://cdn.jsdelivr.net/npm/hexo-theme-volantis@4.3.0/source/js/issues.min.js');
+	
+    }, 1);
+  };
+  $(function () {
+    loadIssuesJS();
+  });
+</script>
 
 
 
@@ -1634,19 +1646,9 @@ var loadCSS = function( href, before, media, attributes ){
 
 
 <script>
-  var GUEST_INFO = ['nick', 'mail', 'link'];
-  var meta = 'nick,mail,link'.split(',').filter(function (item) {
-    return GUEST_INFO.indexOf(item) > -1
-  });
-  var REQUIRED_FIELDS = ['nick', 'mail', 'link'];
-  var requiredFields = 'nick,mail'.split(',').filter(function (item) {
-    return REQUIRED_FIELDS.indexOf(item) > -1
-  });
-
   function emoji(path, idx, ext) {
     return path + "/" + path + "-" + idx + "." + ext;
   }
-
   var emojiMaps = {};
   for (var i = 1; i <= 54; i++) {
     emojiMaps['tieba-' + i] = emoji('tieba', i, 'png');
@@ -1663,43 +1665,27 @@ var loadCSS = function( href, before, media, attributes ){
   for (var i = 1; i <= 4; i++) {
     emojiMaps['weibo-' + i] = emoji('weibo', i, 'png');
   }
-
   function pjax_valine() {
     if(!document.querySelectorAll("#valine_container")[0])return;
-
-    let pagePlaceholder = pdata.commentPlaceholder || "Valine Comment";
-
+    let pagePlaceholder = pdata.commentPlaceholder || "快来评论吧~";
     let path = pdata.commentPath;
     if (path.length == 0) {
       let defaultPath = '';
       path = defaultPath || decodeURI(window.location.pathname);
     }
-
     var valine = new Valine();
-    valine.init({
+    valine.init(Object.assign({"path":null,"placeholder":"快来评论吧~","appId":"uQy2aCtYHAKemynwgm1Gq1E7-MdYXbMMI","appKey":"cqAxW0OGoqEIrYAAwEYfIooM","meta":["nick","mail","link"],"requiredFields":["nick","mail"],"enableQQ":true,"recordIP":false,"avatar":"robohash","pageSize":10,"lang":"zh-cn","highlight":true,"mathJax":false,"js":"https://cdn.jsdelivr.net/npm/valine@1.4/dist/Valine.min.js"}, {
       el: '#valine_container',
-      meta: meta,
-      placeholder: pagePlaceholder,
       path: path,
-      appId: "uQy2aCtYHAKemynwgm1Gq1E7-MdYXbMMI",
-      appKey: "cqAxW0OGoqEIrYAAwEYfIooM",
-      pageSize: '10',
-      avatar: 'robohash',
-      lang: 'zh-cn',
-      visitor: 'true',
-      highlight: 'true',
-      mathJax: 'false',
-      enableQQ: 'true',
-      recordIP: 'false',
-      requiredFields: requiredFields,
+      placeholder: pagePlaceholder,
       emojiCDN: 'https://cdn.jsdelivr.net/gh/volantis-x/cdn-emoji/valine/',
-      emojiMaps: emojiMaps
-    })
+      emojiMaps: emojiMaps,
+    }))
   }
-
   $(function () {
     pjax_valine();
   });
+  pjax_comment=pjax_valine;
 </script>
 
 
@@ -1709,7 +1695,7 @@ var loadCSS = function( href, before, media, attributes ){
 
 
   
-<script src="https://cdn.jsdelivr.net/npm/hexo-theme-volantis@4.2.0/source/js/app.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/hexo-theme-volantis@4.3.0/source/js/app.min.js"></script>
 
 
 
@@ -1721,7 +1707,7 @@ const ROOT =  ("/" || "/").endsWith('/') ? ("/" || "/") : ("//" || "/" );
 
 $('.input.u-search-input').one('focus',function(){
 	
-		loadScript('https://cdn.jsdelivr.net/npm/hexo-theme-volantis@4.2.0/source/js/search/hexo.min.js',setSearchService);
+		loadScript('https://cdn.jsdelivr.net/npm/hexo-theme-volantis@4.3.0/source/js/search/hexo.min.js',setSearchService);
 	
 })
 
@@ -1761,6 +1747,8 @@ function setSearchService() {
 
   
 <script src="https://cdn.jsdelivr.net/gh/volantis-x/cdn-volantis@2/js/comment_typing.js"></script>
+
+
 
 
 
@@ -1856,11 +1844,9 @@ document.addEventListener("pjax:success", listennSidebarTOC);
 
 <!-- more -->
 
-
-
-
-    
-      
+ 
+	   
+	    
 
 
 <script src="https://cdn.jsdelivr.net/npm/pjax@0.2.8/pjax.min.js"></script>
@@ -1914,6 +1900,7 @@ document.addEventListener("pjax:success", listennSidebarTOC);
       $(document).unbind('scroll');
       $(document).unbind('click');
       $('body').unbind('click');
+      
 	  
     });
 
@@ -1927,7 +1914,7 @@ document.addEventListener("pjax:success", listennSidebarTOC);
       // 当应用以动态方式加载内容并更新地址栏中的网址时，也应该更新通过 gtag.js 存储的网页网址。
       // https://developers.google.cn/analytics/devguides/collection/gtagjs/single-page-applications?hl=zh-cn
       
-	 
+
 
       $('.nav-main').find('.list-v').not('.menu-phone').removeAttr("style",""); // 移除小尾巴的移除
       $('.menu-phone.list-v').removeAttr("style",""); // 移除小尾巴的移除
@@ -1943,16 +1930,14 @@ document.addEventListener("pjax:success", listennSidebarTOC);
         
         
         
-        
+        if (typeof IssuesAPI == "undefined") {
+          loadIssuesJS();
+        }
         
           pjax_initCopyCode();
         
-        
-          pjax_valine();
-        
-        
-        
-        
+		
+          try{pjax_comment();} catch (e) {}
         
       } catch (e) {
         console.log(e);
@@ -1965,8 +1950,8 @@ document.addEventListener("pjax:success", listennSidebarTOC);
       window.location.href = e.triggerElement.href;
     });
 </script>
-
-    
-  </div>
-</body>
+ 
+	  
+    </div>
+  </body>
 </html>
