@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
-  <head hexo-theme='https://github.com/volantis-x/hexo-theme-volantis/tree/4.3.0'>
+  <head hexo-theme='https://github.com/volantis-x/hexo-theme-volantis/tree/4.3.1'>
   <meta charset="utf-8">
   <!-- SEO相关 -->
   
@@ -60,6 +60,50 @@
   <script id="loadcss"></script>
 
   
+<script>
+if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMode))
+    document.write(
+	'<style>'+
+		'html{'+
+			'overflow-x: hidden !important;'+
+			'overflow-y: hidden !important;'+
+		'}'+
+		'.kill-ie{'+
+			'text-align:center;'+
+			'height: 100%;'+
+			'margin-top: 15%;'+
+			'margin-bottom: 5500%;'+
+		'}'+
+	'</style>'+
+    '<div class="kill-ie">'+
+        '<h1><b>抱歉，您的浏览器无法访问本站</b></h1>'+
+        '<h3>微软已经于2016年终止了对 Internet Explorer (IE) 10 及更早版本的支持，<br/>'+
+        '继续使用存在极大的安全隐患，请使用当代主流的浏览器进行访问。</h3><br/>'+
+        '<a target="_blank" rel="noopener" href="https://www.microsoft.com/zh-cn/WindowsForBusiness/End-of-IE-support"><strong>了解详情 ></strong></a>'+
+    '</div>');
+</script>
+
+
+<noscript>
+	<style>
+		html{
+			overflow-x: hidden !important;
+			overflow-y: hidden !important;
+		}
+		.kill-noscript{
+			text-align:center;
+			height: 100%;
+			margin-top: 15%;
+			margin-bottom: 5500%;
+		}
+	</style>
+    <div class="kill-noscript">
+        <h1><b>抱歉，您的浏览器无法访问本站</b></h1>
+        <h3>本页面需要浏览器支持（启用）JavaScript</h3><br/>
+        <a target="_blank" rel="noopener" href="https://www.baidu.com/s?wd=启用JavaScript"><strong>了解详情 ></strong></a>
+    </div>
+</noscript>
+
 </head>
 
   <body>
@@ -342,6 +386,8 @@
                 <a class="menuitem flat-box faa-parent animated-hover" href=/talk
                   
                   
+                    target="_blank"
+                  
                   
                     id="talk"
                   >
@@ -616,6 +662,8 @@
                 <a class="menuitem flat-box faa-parent animated-hover" href=/talk
                   
                   
+                    target="_blank"
+                  
                   
                     id="talk"
                   >
@@ -751,11 +799,11 @@
 <p><strong>1.0 beta3（2016.9.16）</strong><br>优化输入法码表以及程序安装包大小</p>
 <p><strong>1.0 beta2（2016.9.7）：基于多多输入法生成器v4.0.0.356 β1版本更新</strong><br>1.优化界面引擎<br>2.完善注册机制</p>
 <p><strong>1.0 beta1（2016.8.21）：基于多多输入法生成器v4.0.0.355 β1版本更新</strong><br>1.舍弃IME内核，改由纯C语言编译实现TSF框架，不再兼容IME框架<br>2.32位和64位安装程序合并，安装程序不再需要区分32位和64位情况<br>3.更为合理的候选排序策略<br>4.优化Win10系统软件兼容性<br>5.优化输入法设置界面<br>6.此版本及以后版本可与0.x系列版本共存（不过个人建议更新到最新版本）</p>
-<h5 id="1-0之前的版本"><a href="#1-0之前的版本" class="headerlink" title="1.0之前的版本"></a>1.0之前的版本</h5><p><strong>0.5.12（2016.2.24）</strong><br>替换1款内置皮肤<br><strong>0.5.11（2016.2.13）</strong><br>帮助设置界面图标优化，修改1款内置皮肤的默认位置（由默认出现在左下角改为右下角，可以手动调整位置）<br><strong>0.5.10（2016.2.7）</strong><br>替换3款内置皮肤，另再新增1款皮肤<br><strong>0.5.9（2016.2.2）</strong><br>增加1款皮肤，并修正1款在Win10系统下图标显示位置偏离的皮肤<br><strong>0.5.8（2016.1.30）</strong><br>取消输入法程序的检测新版本功能（本来也不支持在程序中直接更新版本），请用户到官方网盘中查询、更新新版本安装包<br><strong>0.5.7（2016.1.28）</strong><br>词库更新，收录大量少用、生僻单字（约两三万个）和常见词组<br><strong>0.5.6（2016.1.27）</strong><br>1.词库更新，根据反馈增加鸡㙡菌的“㙡(FTWH)”一字<br>2.输入法词频调整策略，由默认“禁止调整”词频改为“逐渐调整”词频。<br>  调整策略为：如果用户上屏的是第一个候选，无需调整；否则，将当前上屏词条调整到当前位于候选列表的位置/2 的位置，其他的候选列表顺序不变。<br><strong>0.5.5（2016.1.25）</strong><br>增加1款皮肤，对程序界面进行调整优化<br><strong>0.5.4（2016.1.23）</strong><br>1.修正一处输入逻辑：在输入时候选词默认单字优先显示<br>2.增加快捷键功能，Shift键“中英文切换”，Ctrl键“软键盘切换”（后续还将添加更多输入规则）<br><strong>0.5.3（2016.1.17）</strong><br>程序支持输入时用“[”、“]”对候选词进行前后翻页选择<br><strong>0.5.2（2016.1.15）：基于多多输入法生成器v3.3.0.233版本更新</strong><br>词库更新，根据反馈增加“㱔(HXQU)”、“㰣(HXQW)”两字<br><strong>0.5.1 fix1（2015.8.26）：基于多多输入法生成器v3.3.0.231版本更新</strong><br>1.修复万能键功能Bug<br>2.修复输入法词典不支持大字符集显示的Bug<br><strong>0.5.1（2015.8.26）：基于多多输入法生成器v3.3.0.229版本更新</strong><br>1.万能键功能Bug修复、行为调整：如果设置了顶屏码长为4，即便在前4码输入中包含万能键，在第5码时也会自动顶屏。<br>  但是如果前4码中包含万能键，在第4码时即使候选唯一也不自动上屏。<br>2.恢复安装包内置输入法皮肤、输入法词典功能<br><strong>0.5.0正式版（2015.8.25）：基于多多输入法生成器v3.3.0.227版本更新</strong><br>1.修正Win7系统下软件的不兼容问题<br>2.暂时删除安装包内置输入法皮肤（下个版本会恢复），优化安装包体积（64位安装包由6.13MB缩减至3.44MB）<br>3.暂时关闭词典功能（下个版本会恢复）<br><strong>0.5.0 Beta9（2015.1.17）：基于多多输入法生成器v3.3.0.202版本更新</strong><br>1.更改非metro界面中不提示中/英/A等状态<br>2.限制安装guid不同但输入法名称相同的输入法<br>3.限制安装guid不同但安装路径相同的输入法<br><strong>0.5.0 Beta8（2014.12.31）：基于多多输入法生成器v3.3.0.201版本更新</strong><br>1.修改快捷日期英文输入方式 引导键开启快捷英文时会自动更改候选个数为9,并可使用a~j自动上屏对应候选<br>2.修改浮动提示(中/英/A等)行为,初次打开窗口时将不显示浮动提示<br><strong>0.5.0 Beta7（2014.12.27）：基于多多输入法生成器v3.3.0.198版本更新</strong><br>1.修正快捷键过多引起的程序崩溃错误,快捷键最多64个<br>2.修改有注册功能的安装程序在覆盖安装时的版本判断错误<br><strong>0.5.0 Beta6（2014.12.20）：基于多多输入法生成器v3.3.0.197版本更新</strong><br><strong>0.5.0 Beta5（2014.12.15）：基于多多输入法生成器v3.3.0.194版本更新</strong><br>更换输入法的默认皮肤<br><img src="https://gitee.com/bcler/fmdx/raw/master/img/2017-10-04/Input-Method-Skin.png" class="lazyload" data-srcset="https://gitee.com/bcler/fmdx/raw/master/img/2017-10-04/Input-Method-Skin.png" srcset="data:image/png;base64,666" alt="南坡五笔默认皮肤"><br><strong>0.5.0 Beta4（2014.12.14）：基于多多输入法生成器v3.3.0.193版本更新</strong><br><strong>0.5.0 Beta3（2014.12.6）：基于多多输入法生成器v3.3.0.189版本更新</strong><br><strong>0.5.0 Beta2（2014.11.30）：基于多多输入法生成器v3.3.0.188版本更新</strong><br><strong>0.5.0 Beta1（2014.11.28）：基于多多输入法生成器v3.3 β1(v3.3.0.185)版本更新</strong><br>新增功能：<br>1.优化自动更新方式<br>　可设置自动生成数据更新包<br>　可设置自动生成程序更新包<br>　可设置自动生成更新信息文件<br>　可设置更新下载根路径<br>2.添加智能标点功能<br>　智能标点键位表，改表中指定的健位，第一次输入为中文标点，第二次输入删除中文并上屏英文标点<br>　数字后半角标点行为也受此功能影响，再次输入时删除半角标点并上屏中文标点<br>3.添加可设置 输入标点后光标左移 功能<br>　光标左移的标点表，该表中指定的键位在输出中文标点符号后，会模拟一次键盘光标左移键<br>4.优化安装程序策略<br>　①安装程序使用动态IME文件名方法规避用户打开输入法后的安装、更新卸载操作中的文件被占用问题；<br>　IME文件名可能是：c:\windows\system32\ddwbtest.161.56.ime<br>　②为码表数据添加版本限定，保证用户使用高版本覆盖安装低版本程序时，能够正确的安装高版本数据文件，数据安装路径为：<br>　C:\ProgramData\DuoduoIME3\ {FA212179-3D1F-43F7-B39F-33CE5F60BEAF}\161.56<br>　③限制使用低版本程序覆盖已经安装的高版本程序<br>　④限制32位程序在64位系统中安装<br>　⑤相同版本程序覆盖已有安装时，将仅覆盖数据文件，IME文件保持本机文件不变<br>　⑥卸载程序将不再提示关闭已经打开输入法的程序，删除文件的操作，将在用户下次重新启动计算机时执行完全删除<br>5.优化简繁转换策略<br>　候选唯一时，会先判断简繁转换的结果，如果结果不唯一，将不自动上屏<br>6.优化皮肤驱动<br>　①统一原有的classic和colourful驱动为common<br>　②common驱动内置了原classic样式的皮肤包<br>7.优化了程序菜单定义方式<br>　在此方式基础上，将可实现用户自定义候选列表菜单、状态栏右键菜单<br>8.优化命令直通车的日期功能，<br>　允许日期的年月日加减一个常数值，以实现输入“明天”“去年”等日期<br>9.优化快速日期的输入<br>　①快速日期时，支持使用 abcdefg上屏候选<br>　②添加带千分号的金额小写形式</p>
+<h5 id="1-0之前的版本"><a href="#1-0之前的版本" class="headerlink" title="1.0之前的版本"></a>1.0之前的版本</h5><p><strong>0.5.12（2016.2.24）</strong><br>替换1款内置皮肤<br><strong>0.5.11（2016.2.13）</strong><br>帮助设置界面图标优化，修改1款内置皮肤的默认位置（由默认出现在左下角改为右下角，可以手动调整位置）<br><strong>0.5.10（2016.2.7）</strong><br>替换3款内置皮肤，另再新增1款皮肤<br><strong>0.5.9（2016.2.2）</strong><br>增加1款皮肤，并修正1款在Win10系统下图标显示位置偏离的皮肤<br><strong>0.5.8（2016.1.30）</strong><br>取消输入法程序的检测新版本功能（本来也不支持在程序中直接更新版本），请用户到官方网盘中查询、更新新版本安装包<br><strong>0.5.7（2016.1.28）</strong><br>词库更新，收录大量少用、生僻单字（约两三万个）和常见词组<br><strong>0.5.6（2016.1.27）</strong><br>1.词库更新，根据反馈增加鸡㙡菌的“㙡(FTWH)”一字<br>2.输入法词频调整策略，由默认“禁止调整”词频改为“逐渐调整”词频。<br>  调整策略为：如果用户上屏的是第一个候选，无需调整；否则，将当前上屏词条调整到当前位于候选列表的位置/2 的位置，其他的候选列表顺序不变。<br><strong>0.5.5（2016.1.25）</strong><br>增加1款皮肤，对程序界面进行调整优化<br><strong>0.5.4（2016.1.23）</strong><br>1.修正一处输入逻辑：在输入时候选词默认单字优先显示<br>2.增加快捷键功能，Shift键“中英文切换”，Ctrl键“软键盘切换”（后续还将添加更多输入规则）<br><strong>0.5.3（2016.1.17）</strong><br>程序支持输入时用“[”、“]”对候选词进行前后翻页选择<br><strong>0.5.2（2016.1.15）：基于多多输入法生成器v3.3.0.233版本更新</strong><br>词库更新，根据反馈增加“㱔(HXQU)”、“㰣(HXQW)”两字<br><strong>0.5.1 fix1（2015.8.26）：基于多多输入法生成器v3.3.0.231版本更新</strong><br>1.修复万能键功能Bug<br>2.修复输入法词典不支持大字符集显示的Bug<br><strong>0.5.1（2015.8.26）：基于多多输入法生成器v3.3.0.229版本更新</strong><br>1.万能键功能Bug修复、行为调整：如果设置了顶屏码长为4，即便在前4码输入中包含万能键，在第5码时也会自动顶屏。<br>  但是如果前4码中包含万能键，在第4码时即使候选唯一也不自动上屏。<br>2.恢复安装包内置输入法皮肤、输入法词典功能<br><strong>0.5.0正式版（2015.8.25）：基于多多输入法生成器v3.3.0.227版本更新</strong><br>1.修正Win7系统下软件的不兼容问题<br>2.暂时删除安装包内置输入法皮肤（下个版本会恢复），优化安装包体积（64位安装包由6.13MB缩减至3.44MB）<br>3.暂时关闭词典功能（下个版本会恢复）<br><strong>0.5.0 Beta9（2015.1.17）：基于多多输入法生成器v3.3.0.202版本更新</strong><br>1.更改非metro界面中不提示中/英/A等状态<br>2.限制安装guid不同但输入法名称相同的输入法<br>3.限制安装guid不同但安装路径相同的输入法<br><strong>0.5.0 Beta8（2014.12.31）：基于多多输入法生成器v3.3.0.201版本更新</strong><br>1.修改快捷日期英文输入方式 引导键开启快捷英文时会自动更改候选个数为9,并可使用a~j自动上屏对应候选<br>2.修改浮动提示(中/英/A等)行为,初次打开窗口时将不显示浮动提示<br><strong>0.5.0 Beta7（2014.12.27）：基于多多输入法生成器v3.3.0.198版本更新</strong><br>1.修正快捷键过多引起的程序崩溃错误,快捷键最多64个<br>2.修改有注册功能的安装程序在覆盖安装时的版本判断错误<br><strong>0.5.0 Beta6（2014.12.20）：基于多多输入法生成器v3.3.0.197版本更新</strong><br><strong>0.5.0 Beta5（2014.12.15）：基于多多输入法生成器v3.3.0.194版本更新</strong><br>更换输入法的默认皮肤<br><img src="https://gitee.com/bcler/fmdx/raw/master/img/2017-10-04/Input-Method-Skin.png" class="lazyload" data-srcset="https://gitee.com/bcler/fmdx/raw/master/img/2017-10-04/Input-Method-Skin.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="南坡五笔默认皮肤"><br><strong>0.5.0 Beta4（2014.12.14）：基于多多输入法生成器v3.3.0.193版本更新</strong><br><strong>0.5.0 Beta3（2014.12.6）：基于多多输入法生成器v3.3.0.189版本更新</strong><br><strong>0.5.0 Beta2（2014.11.30）：基于多多输入法生成器v3.3.0.188版本更新</strong><br><strong>0.5.0 Beta1（2014.11.28）：基于多多输入法生成器v3.3 β1(v3.3.0.185)版本更新</strong><br>新增功能：<br>1.优化自动更新方式<br>　可设置自动生成数据更新包<br>　可设置自动生成程序更新包<br>　可设置自动生成更新信息文件<br>　可设置更新下载根路径<br>2.添加智能标点功能<br>　智能标点键位表，改表中指定的健位，第一次输入为中文标点，第二次输入删除中文并上屏英文标点<br>　数字后半角标点行为也受此功能影响，再次输入时删除半角标点并上屏中文标点<br>3.添加可设置 输入标点后光标左移 功能<br>　光标左移的标点表，该表中指定的键位在输出中文标点符号后，会模拟一次键盘光标左移键<br>4.优化安装程序策略<br>　①安装程序使用动态IME文件名方法规避用户打开输入法后的安装、更新卸载操作中的文件被占用问题；<br>　IME文件名可能是：c:\windows\system32\ddwbtest.161.56.ime<br>　②为码表数据添加版本限定，保证用户使用高版本覆盖安装低版本程序时，能够正确的安装高版本数据文件，数据安装路径为：<br>　C:\ProgramData\DuoduoIME3\ {FA212179-3D1F-43F7-B39F-33CE5F60BEAF}\161.56<br>　③限制使用低版本程序覆盖已经安装的高版本程序<br>　④限制32位程序在64位系统中安装<br>　⑤相同版本程序覆盖已有安装时，将仅覆盖数据文件，IME文件保持本机文件不变<br>　⑥卸载程序将不再提示关闭已经打开输入法的程序，删除文件的操作，将在用户下次重新启动计算机时执行完全删除<br>5.优化简繁转换策略<br>　候选唯一时，会先判断简繁转换的结果，如果结果不唯一，将不自动上屏<br>6.优化皮肤驱动<br>　①统一原有的classic和colourful驱动为common<br>　②common驱动内置了原classic样式的皮肤包<br>7.优化了程序菜单定义方式<br>　在此方式基础上，将可实现用户自定义候选列表菜单、状态栏右键菜单<br>8.优化命令直通车的日期功能，<br>　允许日期的年月日加减一个常数值，以实现输入“明天”“去年”等日期<br>9.优化快速日期的输入<br>　①快速日期时，支持使用 abcdefg上屏候选<br>　②添加带千分号的金额小写形式</p>
 <p><strong>0.22.0（2014.10.5）</strong><br>新增支持简体转繁体、临时造词、英文输入3项新功能<br><strong>0.21.0（2014.2.14）</strong><br>新增7款皮肤<br><strong>0.20.0（2014.1.25）</strong><br>新增6款皮肤。<br><strong>0.19.0（2014.1.25）</strong><br>新增13款皮肤<br><strong>0.18.0（2014.1.21）</strong><br>新增1款皮肤，<strong>软件名称改为“南坡五笔输入法”</strong><br><strong>0.17.2（2013.8.20）</strong><br>新增2款皮肤<br><strong>0.17.1（2013.8.17）：基于多多输入法生成器v3.2.0.158版本更新</strong><br><strong>0.17.0（2013.7.20）</strong><br>新增6款皮肤<br><strong>0.16.1（2013.7.19）</strong><br>新增3款皮肤<br><strong>0.15.7（2013.7.17）：基于多多输入法生成器v3.2.0.153版本更新</strong><br><strong>0.15.6（2013.7.16）：基于多多输入法生成器v3.2.0.152版本更新</strong><br><strong>0.15.5（2013.7.15）：基于多多输入法生成器v3.2.0.151版本更新</strong><br><strong>0.15.4（2013.7.14）：基于多多输入法生成器v3.2.0.150版本更新</strong><br><strong>0.15.3（2013.7.13）：基于多多输入法生成器v3.2.0.149版本更新</strong><br><strong>0.15.2（2013.7.12）：基于多多输入法生成器v3.2.0.148版本更新</strong><br><strong>0.15.1（2013.7.11）：基于多多输入法生成器v3.2.0.147版本更新</strong><br><strong>0.15（2013.7.8）：基于多多输入法生成器v3.2.0.146版本更新</strong><br><strong>0.14（2013.7.5）：基于多多输入法生成器v3.2.0.145版本更新</strong><br>新增pysh五笔输入法（32位）安装程序<br><strong>0.13（2013.6.8）</strong><br>优化一些细节问题<br><strong>0.12（2013.6.7）</strong><br>优化一些细节问题<br><strong>0.11（2013.6.4）</strong><br>优化一些细节问题<br><strong>0.10（2013.6.2）</strong><br>pysh五笔输入法0.1版（64位）发布，使用多多输入法生成器v3.2.0.134 β2版本制作。</p>
 <h4 id="卸载方式"><a href="#卸载方式" class="headerlink" title="卸载方式"></a>卸载方式</h4><p>1.调用南坡五笔自带的卸载程序（文件路径：(安装路径)\南坡五笔\installer.exe）<br>2.开始→控制面板→程序→卸载程序→卸载<br>3.使用各类“卫士”等系统辅助软件卸载</p>
 <h5 id="如使用上述方式仍无法卸载，请下载南坡五笔专用卸载工具卸载"><a href="#如使用上述方式仍无法卸载，请下载南坡五笔专用卸载工具卸载" class="headerlink" title="如使用上述方式仍无法卸载，请下载南坡五笔专用卸载工具卸载"></a>如使用上述方式仍无法卸载，请下载南坡五笔专用卸载工具卸载</h5><p>64位：<a target="_blank" rel="noopener" href="https://pan.baidu.com/share/link?shareid=304596937&amp;uk=3322981127">https://pan.baidu.com/share/link?shareid=304596937&amp;uk=3322981127</a><br>32位：<a target="_blank" rel="noopener" href="https://pan.baidu.com/share/link?shareid=304995561&amp;uk=3322981127">https://pan.baidu.com/share/link?shareid=304995561&amp;uk=3322981127</a></p>
-<p>Windows 7 系统环境下卸载后发现语言栏仍残留南坡五笔输入法图标，如下图所示：<br><img src="https://gitee.com/bcler/fmdx/raw/master/img/2017-10-04/Input-Method-Settings.png" class="lazyload" data-srcset="https://gitee.com/bcler/fmdx/raw/master/img/2017-10-04/Input-Method-Settings.png" srcset="data:image/png;base64,666" alt="设置"><br>请参照<a target="_blank" rel="noopener" href="https://jingyan.baidu.com/article/0f5fb099cbed486d8334ea24.html">https://jingyan.baidu.com/article/0f5fb099cbed486d8334ea24.html</a> ，<br>删除软件的注册表文件（文件路径HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Keyboard Layouts\），如下图所示：<br><img src="https://gitee.com/bcler/fmdx/raw/master/img/2017-10-04/Nanpo-Wubi-Regedit.png" class="lazyload" data-srcset="https://gitee.com/bcler/fmdx/raw/master/img/2017-10-04/Nanpo-Wubi-Regedit.png" srcset="data:image/png;base64,666" alt="注册表"></p>
+<p>Windows 7 系统环境下卸载后发现语言栏仍残留南坡五笔输入法图标，如下图所示：<br><img src="https://gitee.com/bcler/fmdx/raw/master/img/2017-10-04/Input-Method-Settings.png" class="lazyload" data-srcset="https://gitee.com/bcler/fmdx/raw/master/img/2017-10-04/Input-Method-Settings.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="设置"><br>请参照<a target="_blank" rel="noopener" href="https://jingyan.baidu.com/article/0f5fb099cbed486d8334ea24.html">https://jingyan.baidu.com/article/0f5fb099cbed486d8334ea24.html</a> ，<br>删除软件的注册表文件（文件路径HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Keyboard Layouts\），如下图所示：<br><img src="https://gitee.com/bcler/fmdx/raw/master/img/2017-10-04/Nanpo-Wubi-Regedit.png" class="lazyload" data-srcset="https://gitee.com/bcler/fmdx/raw/master/img/2017-10-04/Nanpo-Wubi-Regedit.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" alt="注册表"></p>
 
   
   
@@ -805,7 +853,7 @@
           
           >
           
-            <img src="https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/telegram.png" class="lazyload" data-srcset="https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/telegram.png" srcset="data:image/png;base64,666">
+            <img src="https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/telegram.png" class="lazyload" data-srcset="https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/telegram.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=">
           
         </a>
       
@@ -820,7 +868,7 @@
           
           >
           
-            <img src="https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/qq.png" class="lazyload" data-srcset="https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/qq.png" srcset="data:image/png;base64,666">
+            <img src="https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/qq.png" class="lazyload" data-srcset="https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/qq.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=">
           
         </a>
       
@@ -835,7 +883,7 @@
           
           >
           
-            <img src="https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/weibo.png" class="lazyload" data-srcset="https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/weibo.png" srcset="data:image/png;base64,666">
+            <img src="https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/weibo.png" class="lazyload" data-srcset="https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/weibo.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=">
           
         </a>
       
@@ -843,7 +891,7 @@
       
         
         <div class='hoverbox'>
-          <a class='share'><img src="https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/wechat.png" class="lazyload" data-srcset="https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/wechat.png" srcset="data:image/png;base64,666"></a>
+          <a class='share'><img src="https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/wechat.png" class="lazyload" data-srcset="https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/wechat.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII="></a>
           <div class='target'>
             <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATgAAAE4CAAAAADqFLC2AAADpklEQVR42u3aQXLjMAwEQP//09kHbLlEYKAIdpo3JZZMNHNAMHr9WK31QgAOHDhwFjhwS+BezfXfAy9+/u73xxu+uP90X2m94MCBAwcOHDhw2+DSAqrA3c+fHsjVfd16wYEDBw4cOHDgtsJdNoBhAd1G+BTgdL/tesGBAwcOHDhw4L4U7nggeHgA1c9VB57gwIEDBw4cOHDgzjbcbZT/3H8O4MCBAwcOHDhwNwfS1UB4+jnpATyW5IMDBw4cOHDgwA3BTQ8kt1+36wUHDhw4cODAgVsCl65uYHy60fQFxWrDe/k8cODAgQMHDhy4JXDdAqfAuwBpYN2tDxw4cODAgQMHbgvcbzW+U/dXA+bp54IDBw4cOHDgwG2BO278wkHiKVQVvNpYVyGPk3xw4MCBAwcOHLiH4H6G1+mAtHpQaYNdrRscOHDgwIEDB+5T4E4LSoPjahCeHkj6wiM4cODAgQMHDtw2uDRQrg4opwaZVbD0DwAcOHDgwIEDB+5T4Lov5E0Hwylou9HtNsDgwIEDBw4cOHC/DFcdSMbB7mGj3B2oTgXjlw0wOHDgwIEDBw7cQ3BpoFttQKcKrQ40u40yOHDgwIEDBw7cp8ClUFMHMRYgh4E3OHDgwIEDBw7cdri04eweQDpAnQI7bpDBgQMHDhw4cOCWwKUFpMFvFTQdWKbQ4MCBAwcOHDhwW+Du2kj6/KkGvTqwvdwnOHDgwIEDBw7cMrhqAzzduHbBugPTdiMODhw4cODAgQO3BG5qMDl93S3s7oMABw4cOHDgwIHbApcOGNMgemoQ2R3AVl9cBAcOHDhw4MCB2wJ3OghMB5HdoLobTKcH9PYaHDhw4MCBAwduCdxU0DvVuN49QO3+HBw4cODAgQMHbitcNxhON94dkHahq4DHE2Bw4MCBAwcOHLiH4dJGcXrD3YFnGpgfDzLBgQMHDhw4cOCWwlW/cCognr4//T5w4MCBAwcOHLhtcOlKN1ZtoKeeU/0cOHDgwIEDBw7cNripwtMgeSrwnro+DqTBgQMHDhw4cOAehqs2vHcNQquNcHW/4w0wOHDgwIEDBw7cErhyQBsGyFOD0ekA+u3+wIEDBw4cOHDgvhSu+txqQzzdeJfrBQcOHDhw4MCB+3K47gBzamBZ/Z7jgB0cOHDgwIEDB24pXLeQKnTayE4F4OXGGxw4cODAgQMHbhncbQFuGGinMKcHe1wvOHDgwIEDBw7cEjirOOBEAA4cOHAWOHDPrn+PXX61rwCGMwAAAABJRU5ErkJggg==">
           </div>
@@ -940,10 +988,18 @@
   pdata.postTitle="南坡五笔输入法";
   pdata.commentPath="";
   pdata.commentPlaceholder="";
-
+  // header 这里无论是否开启pjax都需要
   var l_header=document.getElementById("l_header");
   
   l_header.classList.add("show");
+  
+  
+    // cover
+    var cover_wrapper=document.querySelector('.cover-wrapper');
+    
+    cover_wrapper.id="none";
+    cover_wrapper.style.display="none";
+    
   
 </script>
 
@@ -1001,16 +1057,54 @@
     </div>
     <div>
       <script>
+/************这个文件存放不需要重载的全局变量和全局函数*********/
 window.volantis={};
 window.volantis.loadcss=document.getElementById("loadcss");
+/******************** Pjax ********************************/
+function VPjax(){
+	this.list=[] // 存放回调函数
+	this.start=()=>{
+	  for(var i=0;i<this.list.length;i++){
+		this.list[i].run();
+	  }
+	}
+	this.push=(fn,name)=>{
+		var f=new PjaxItem(fn,name);
+		this.list.push(f);
+	}
+	// 构造一个可以run的对象
+	function PjaxItem(fn,name){
+		// 函数名称
+		this.name = name || fn.name
+		// run方法
+		this.run=()=>{
+			fn()
+		}
+	}
+}
+volantis.pjax={}
+volantis.pjax.method={
+	complete: new VPjax(),
+	error: new VPjax(),
+	send: new VPjax()
+}
+volantis.pjax={
+	...volantis.pjax,
+	push: volantis.pjax.method.complete.push,
+	error: volantis.pjax.method.error.push,
+	send: volantis.pjax.method.send.push
+}
 /********************脚本懒加载函数********************************/
+// 已经加入了setTimeout
 function loadScript(src, cb) {
-var HEAD = document.getElementsByTagName('head')[0] || document.documentElement;
-var script = document.createElement('script');
-script.setAttribute('type','text/javascript');
-if (cb) script.onload = cb;
-script.setAttribute('src', src);
-HEAD.appendChild(script);
+	setTimeout(function() {
+		var HEAD = document.getElementsByTagName('head')[0] || document.documentElement;
+		var script = document.createElement('script');
+		script.setAttribute('type','text/javascript');
+		if (cb) script.onload = cb;
+		script.setAttribute('src', src);
+		HEAD.appendChild(script);
+	});
 }
 //https://github.com/filamentgroup/loadCSS
 var loadCSS = function( href, before, media, attributes ){
@@ -1130,13 +1224,24 @@ var loadCSS = function( href, before, media, attributes ){
   function SCload_fancybox() {
     if ($(".md .gallery").find("img").length == 0) return;
     loadCSS("https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css", document.getElementById("loadcss"));
-    setTimeout(function() {
-      loadScript('https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js', pjax_fancybox)
-    }, 1);
+    loadScript('https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js', pjax_fancybox)
   };
   $(function () {
     SCload_fancybox();
   });
+  function Pjax_SCload_fancybox(){
+	if (typeof $.fancybox == "undefined") {
+	 SCload_fancybox();
+    } else {
+	 pjax_fancybox();
+    }
+  }
+  volantis.pjax.push(Pjax_SCload_fancybox)
+  volantis.pjax.send(()=>{
+      if (typeof $.fancybox != "undefined") {
+        $.fancybox.close();    // 关闭弹窗
+      }
+  },'fancybox')
 </script>
 
 
@@ -1148,15 +1253,18 @@ var loadCSS = function( href, before, media, attributes ){
 <script>
   function loadIssuesJS() {
     if ($(".md").find(".issues-api").length == 0) return;
-    setTimeout(function() {
 	
-	  loadScript('https://cdn.jsdelivr.net/npm/hexo-theme-volantis@4.3.0/source/js/issues.min.js');
+	  loadScript('https://cdn.jsdelivr.net/npm/hexo-theme-volantis@4.3.1/source/js/issues.min.js');
 	
-    }, 1);
   };
   $(function () {
     loadIssuesJS();
   });
+  volantis.pjax.push(()=>{
+	if (typeof IssuesAPI == "undefined") {
+	  loadIssuesJS();
+	}
+  },"IssuesJS")
 </script>
 
 
@@ -1191,17 +1299,17 @@ var loadCSS = function( href, before, media, attributes ){
 
 
   
-  
-    <script>
-      window.FPConfig = {
-        delay: 0,
-        ignoreKeywords: [],
-        maxRPS: 5,
-        hoverDelay: 25
-      };
-    </script>
-    <script defer src="https://cdn.jsdelivr.net/gh/gijo-varghese/flying-pages@2.1.2/flying-pages.min.js"></script>
-  
+
+<script>
+  window.FPConfig = {
+	delay: 0,
+	ignoreKeywords: [],
+	maxRPS: 5,
+	hoverDelay: 25
+  };
+</script>
+<script defer src="https://cdn.jsdelivr.net/gh/gijo-varghese/flying-pages@2.1.2/flying-pages.min.js"></script>
+
 
 
 
@@ -1258,6 +1366,7 @@ var loadCSS = function( href, before, media, attributes ){
     $(function () {
         pjax_initCopyCode()
     });
+	volantis.pjax.push(pjax_initCopyCode)
 </script>
 
 
@@ -1312,7 +1421,7 @@ var loadCSS = function( href, before, media, attributes ){
   $(function () {
     pjax_valine();
   });
-  pjax_comment=pjax_valine;
+  volantis.pjax.push(pjax_valine);
 </script>
 
 
@@ -1321,8 +1430,9 @@ var loadCSS = function( href, before, media, attributes ){
   <script defer src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js" data-pjax></script>
 
 
+
   
-<script src="https://cdn.jsdelivr.net/npm/hexo-theme-volantis@4.3.0/source/js/app.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/hexo-theme-volantis@4.3.1/source/js/app.min.js"></script>
 
 
 
@@ -1334,7 +1444,7 @@ const ROOT =  ("/" || "/").endsWith('/') ? ("/" || "/") : ("//" || "/" );
 
 $('.input.u-search-input').one('focus',function(){
 	
-		loadScript('https://cdn.jsdelivr.net/npm/hexo-theme-volantis@4.3.0/source/js/search/hexo.min.js',setSearchService);
+		loadScript('https://cdn.jsdelivr.net/npm/hexo-theme-volantis@4.3.1/source/js/search/hexo.min.js',setSearchService);
 	
 })
 
@@ -1358,17 +1468,17 @@ function setSearchService() {
   
 <script src="https://cdn.jsdelivr.net/npm/node-waves@0.7.6/dist/waves.min.js"></script>
 
-  <script type="text/javascript">
-    $(function () {
-      Waves.attach('.flat-btn', ['waves-button']);
-      Waves.attach('.float-btn', ['waves-button', 'waves-float']);
-      Waves.attach('.float-btn-light', ['waves-button', 'waves-float', 'waves-light']);
-      Waves.attach('.flat-box', ['waves-block']);
-      Waves.attach('.float-box', ['waves-block', 'waves-float']);
-      Waves.attach('.waves-image');
-      Waves.init();
-    });
-  </script>
+<script type="text/javascript">
+$(function () {
+  Waves.attach('.flat-btn', ['waves-button']);
+  Waves.attach('.float-btn', ['waves-button', 'waves-float']);
+  Waves.attach('.float-btn-light', ['waves-button', 'waves-float', 'waves-light']);
+  Waves.attach('.flat-box', ['waves-block']);
+  Waves.attach('.float-box', ['waves-block', 'waves-float']);
+  Waves.attach('.waves-image');
+  Waves.init();
+});
+</script>
 
 
 
@@ -1486,7 +1596,7 @@ document.addEventListener("pjax:success", listennSidebarTOC);
         elements: 'a[href]:not([href^="#"]):not([href="javascript:void(0)"]):not([pjax-fancybox])',
         selectors: [
           "title",
-          "#l_cover",
+          
           "#pjax-container",
           "#pjax-header-nav-list"
         ],
@@ -1512,9 +1622,7 @@ document.addEventListener("pjax:success", listennSidebarTOC);
       } catch (error) {}
 
       window.subData = null; // 移除标题（用于一二级导航栏切换处）
-      if (typeof $.fancybox != "undefined") {
-        $.fancybox.close();    // 关闭弹窗
-      }
+
       volantis.$switcher.removeClass('active'); // 关闭移动端激活的搜索框
       volantis.$header.removeClass('z_search-open'); // 关闭移动端激活的搜索框
       volantis.$wrapper.removeClass('sub'); // 跳转页面时关闭二级导航
@@ -1527,53 +1635,27 @@ document.addEventListener("pjax:success", listennSidebarTOC);
       $(document).unbind('scroll');
       $(document).unbind('click');
       $('body').unbind('click');
-      
-	  
+	  // 使用 volantis.pjax.send 方法传入pjax:send回调函数 参见layout/_partial/scripts/global.ejs
+	  volantis.pjax.method.send.start();
     });
 
     document.addEventListener('pjax:complete', function () {
-      // 关于百度统计对 SPA 页面的处理：
-      // 方案一：百度统计>管理>单页应用设置中，打开开启按钮即可对SPA进行统计。 https://tongji.baidu.com/web/help/article?id=324
-      // 方案二：取消注释下列代码。 https://tongji.baidu.com/web/help/article?id=235
-       
-
-      // 关于谷歌统计对 SPA 页面的处理：
-      // 当应用以动态方式加载内容并更新地址栏中的网址时，也应该更新通过 gtag.js 存储的网页网址。
-      // https://developers.google.cn/analytics/devguides/collection/gtagjs/single-page-applications?hl=zh-cn
-      
-
-
       $('.nav-main').find('.list-v').not('.menu-phone').removeAttr("style",""); // 移除小尾巴的移除
       $('.menu-phone.list-v').removeAttr("style",""); // 移除小尾巴的移除
       $('script[data-pjax], .pjax-reload script').each(function () {
         $(this).parent().append($(this).remove());
       });
       try{
-          if (typeof $.fancybox == "undefined") {
-            SCload_fancybox();
-          } else {
-            pjax_fancybox();
-          }
-        
-        
-        
-        if (typeof IssuesAPI == "undefined") {
-          loadIssuesJS();
-        }
-        
-          pjax_initCopyCode();
-        
-		
-          try{pjax_comment();} catch (e) {}
-        
+		// 使用 volantis.pjax.push 方法传入重载函数 参见layout/_partial/scripts/global.ejs
+		volantis.pjax.method.complete.start();
       } catch (e) {
         console.log(e);
       }
-	  
     });
 
     document.addEventListener('pjax:error', function (e) {
-	  
+	  // 使用 volantis.pjax.error 方法传入pjax:error回调函数 参见layout/_partial/scripts/global.ejs
+	  volantis.pjax.method.error.start();
       window.location.href = e.triggerElement.href;
     });
 </script>
